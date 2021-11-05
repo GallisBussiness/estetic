@@ -89,7 +89,7 @@ compétences au service d’une éthique ».</p>
   showDots={false}
   responsive={responsive}
   infinite={true}
-  autoPlay={false}
+  autoPlay={true}
   autoPlaySpeed={2000}
   keyBoardControl={true}
   customTransition="all 3"
@@ -116,7 +116,7 @@ compétences au service d’une éthique ».</p>
   showDots={false}
   responsive={responsive}
   infinite={true}
-  autoPlay={false}
+  autoPlay={true}
   autoPlaySpeed={2000}
   keyBoardControl={true}
   customTransition="all 3"
