@@ -109,7 +109,7 @@ compétences au service d’une éthique ».</p>
 </section>
 
 <section className="container mx-auto px-10 my-10">
-  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-blue-700 to-pink-700 rounded-lg text-white">Top Formations</h1>
+  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-blue-700 to-pink-700 rounded-lg text-white">Top Services</h1>
   <Carousel
   swipeable={false}
   draggable={false}
