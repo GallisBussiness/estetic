@@ -27,7 +27,7 @@ const responsive = {
 function Home() {
     return (
         <>
-        <section className="text-gray-600">
+        <section className="bg-white">
   <div className="container mx-auto flex px-24 py-10 md:flex-row flex-col items-center">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 className="sm:text-5xl mb-4 font-semibold font-lora text-gray-900">Bienvenue chez Kari's beauty center</h1>
@@ -77,12 +77,12 @@ compétences au service d’une éthique ».</p>
           </ul>
         </div>
       </div>
-      <div className="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0"><img className="mx-auto sm:max-w-sm lg:max-w-full rounded-lg object-cover" src="blacks.jpg" alt="featureimage" /></div>
+      <div className="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0"><img className="mx-auto sm:max-w-sm lg:max-w-full rounded-lg object-cover" src="image3.jpg" alt="featureimage" /></div>
     </div>
   </div>
 </section>
 <section className="container mx-auto px-10 my-4">
-  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-pink-400 rounded-lg text-white">Top Formations</h1>
+  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-pink-700 to-blue-700 rounded-lg text-white">Top Formations</h1>
   <Carousel
   swipeable={false}
   draggable={false}
@@ -109,7 +109,7 @@ compétences au service d’une éthique ».</p>
 </section>
 
 <section className="container mx-auto px-10 my-10">
-  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-blue-700 rounded-lg text-white">Top Formations</h1>
+  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-blue-700 to-pink-700 rounded-lg text-white">Top Formations</h1>
   <Carousel
   swipeable={false}
   draggable={false}
