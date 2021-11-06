@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './Home'
+import { Link } from 'react-router-dom'
 
 function Navbar() {
     return (
@@ -10,9 +10,9 @@ function Navbar() {
      <img src="/logosansbg.png" alt="logo" className="w-20 h-20 object-cover" />
     </a>
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-4xl font-extrabold justify-center">
-      <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Accueil</a>
-      <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Formations</a>
-      <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Services</a>
+      <Link to="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Accueil</Link>
+      <Link to="/formations" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Formations</Link>
+      <Link to="/services" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Services</Link>
       <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Notre équipe</a>
       <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Contact</a>
     </nav>
@@ -22,7 +22,6 @@ function Navbar() {
 </svg> </span> +221 33 832 89 64</a>
   </div>
    </header>
-    <Home />
         </>
     )
 }
