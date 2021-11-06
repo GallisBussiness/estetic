@@ -27,7 +27,7 @@ const responsive = {
 function Home() {
     return (
         <>
-        <section className="bg-white">
+        <section>
   <div className="container mx-auto flex px-24 py-10 md:flex-row flex-col items-center">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 className="sm:text-5xl mb-4 font-semibold font-lora text-gray-900">Bienvenue chez Kari's beauty center</h1>
@@ -43,12 +43,12 @@ massages, pour un public masculin et féminin, maquillage et bien d’autres pre
     </div>
   </div>
 </section>
-<section className="py-20 bg-gray-50 font-lora">
+<section className="py-20 text-gray-700 bg-white bg font-lora">
   <div className="container items-center max-w-6xl px-4 mx-auto sm:px-20 md:px-32 lg:px-16">
     <div className="flex flex-wrap items-center -mx-3">
       <div className="order-1 w-full px-3 lg:w-1/2 lg:order-0">
         <div className="w-full lg:max-w-md">
-          <h2 className="mb-4 text-3xl font-bold leading-tight tracking-tight sm:text-4xl font-heading">Qui somme nous ?</h2>
+          <h2 className="mb-4 text-3xl font-bold leading-tight tracking-tight sm:text-4xl font-heading text-gray-900">Qui somme nous ?</h2>
           <p className="mb-4 font-medium tracking-tight text-gray-400 xl:mb-6">Professionnelle de renommée internationale des métiers de l’esthétique, Mme CHIRARA Karina, après avoir 
 obtenu avec brio son diplôme professionnel d’esthétique en France, y a démarré son activité. Celle-ci a acquis 
 auprès de centres internationaux, notamment dans la région de Messine, puis au Grand-duché de Luxembourg 
