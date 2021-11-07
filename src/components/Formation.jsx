@@ -1,6 +1,7 @@
 import React from 'react'
 import { Button } from '@chakra-ui/react'
 import { ArrowCircleRightIcon } from '@heroicons/react/solid'
+import { Link } from 'react-router-dom'
 
 function Formation({formation}) {
     return (
@@ -17,7 +18,9 @@ function Formation({formation}) {
         <div className="text-sm md:text-lg font-lora">{formation.duree} semaines</div>
         <div className="text-sm md:text-lg font-lora text-white p-1 rounded-lg bg-blue-500">{formation.prix} FCFA</div>
       </div>
-      <Button className="font-lora" rightIcon={<ArrowCircleRightIcon className="h-6 w-6"/>} colorScheme="pink" variant="link">En savoir plus</Button>
+      <Link to={`/formations/${formation.id}`}>
+            <Button className="font-lora" rightIcon={<ArrowCircleRightIcon className="h-6 w-6"/>} colorScheme="pink" variant="link">En savoir plus</Button>
+      </Link>
     </div>
   </div> 
         </>

@@ -5,6 +5,7 @@ import Formations from './components/Formations'
 import Home from './components/Home'
 import Services from './components/Services'
 import ServiceDetails from './components/FormationDetails'
+import Contact from './components/Contact'
 
 function AppRouter() {
     return (
@@ -13,6 +14,7 @@ function AppRouter() {
       <Route path="/" element={<Home />} />
       <Route path="/formations" element={<Formations />} />
       <Route path="/services" element={<Services />} />
+      <Route path="/contact" element={<Contact />} />
       <Route path="/formations/:id" element={<FormationDetails />} />
       <Route path="/services/:id" element={<ServiceDetails />} />
     </Routes>

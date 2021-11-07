@@ -14,7 +14,7 @@ function Navbar() {
       <Link to="/formations" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Formations</Link>
       <Link to="/services" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Services</Link>
       <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Notre équipe</a>
-      <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Contact</a>
+      <Link to="/contact" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Contact</Link>
     </nav>
     <a href="tel:+221 33 832 89 64" className="mr-5 text-gray-900 hover:text-blue-900 text-lg font-normal font-lora">
       <span><svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-pink-400 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
