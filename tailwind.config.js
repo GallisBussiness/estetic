@@ -9,6 +9,7 @@ module.exports = {
       },
       backgroundImage: {
         'blacks': "url('images/blacks.jpg')",
+        'banner': "url('images/image2.jpg')",
        }
     },
   },

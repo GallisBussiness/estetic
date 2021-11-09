@@ -7,7 +7,7 @@ function Navbar() {
           <header className="sticky top-0 bg-white z-10">
   <div className="container px-10 mx-auto flex flex-wrap flex-col md:flex-row items-center">
     <a href="/" className="flex font-medium items-center text-gray-900 mb-4 md:mb-0">
-     <img src="/logosansbg.png" alt="logo" className="w-20 h-20 object-cover" />
+     <img src="/logosansbg.png" alt="logo" className="w-28 h-28 object-cover" />
     </a>
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-4xl font-extrabold justify-center">
       <Link to="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Accueil</Link>
