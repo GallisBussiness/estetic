@@ -1,8 +1,29 @@
-import React from 'react'
+import { Input, InputGroup, InputRightAddon } from '@chakra-ui/input'
+import { SearchIcon } from '@heroicons/react/solid'
+import React, { useEffect, useMemo, useState } from 'react'
 import json from '../data.json'
 import Formation from './Formation'
 
 function Formations() {
+  const [valueSearch,setValueSearch] = useState("");
+  const dataJson  = useMemo(() =>  json.data.formations,[])
+  const [data,setData] = useState(dataJson)
+
+  useEffect(() => {
+    setData(dataJson.filter((d) => {
+        if (valueSearch === "") {
+          //if query is empty
+          return d
+        } else if (d.title.toLowerCase().includes(valueSearch.toLowerCase())) {
+          //returns filtered array
+          return d
+        }
+        return null;
+      }))
+    return () => {
+       return null
+    }
+  }, [valueSearch,dataJson])
     return (
         <>
 <section className="px-2 py-32 bg-white md:px-0 font-lora">
@@ -25,11 +46,21 @@ function Formations() {
     </div>
   </div>
 </section>
-
-        <div className="container mx-auto px-12">
+        <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between font-lora">
+           <div className="h-96 w-full md:w-3/5 sticky top-28 p-3 mx-4">
+             <div className="w-full bg-pink-600 text-white p-2 text-center text-lg font-semibold">Menu</div>
+             <section className="container mx-auto px-4 my-2">
+  <div className="flex items-center justify-between">
+  <InputGroup>
+  <Input type="search" placeholder="Rechercher une formation" onChange={(e) => setValueSearch(e.target.value)} />
+    <InputRightAddon children={<SearchIcon className="h-6 w-6 text-white" />} />
+  </InputGroup>
+  </div>
+</section>
+           </div>
             <div className="grid grid-cols-12 gap-6">
                 
-                     {json.data.formations.map((data,index) => (
+                     {data.map((data,index) => (
                     <div key={index} className="col-span-12 md:col-span-3">
                      <Formation  formation={data} />
                         </div>

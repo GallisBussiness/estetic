@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import json from '../data.json'
-
+import  Zoom from 'react-reveal/Zoom'
 function FormationDetails() {
     const { id } = useParams()
     const [formation,setFormation] = useState({})
     useEffect(() => {
+        window.scrollTo({top: 0})
         const f = json.data.formations.find((f) => f.id === +id);
         setFormation(f)
         return () => {
@@ -18,9 +19,12 @@ function FormationDetails() {
            <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto flex flex-col">
     <div className="lg:w-4/6 mx-auto">
-      <div className="rounded-lg h-64 overflow-hidden">
+      <Zoom>
+        <div className="rounded-lg h-64 overflow-hidden">
         <img alt="content" className="object-cover object-center h-full w-full" src="/image1.jpg" />
       </div>
+      </Zoom>
+      
       <div className="flex flex-col sm:flex-row mt-10">
         <div className="sm:w-1/3 text-center sm:pr-8 sm:py-8">
           <div className="flex flex-col items-center text-center justify-center">

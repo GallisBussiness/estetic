@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Zoom from 'react-reveal'
 
 function Navbar() {
     return (
@@ -10,11 +11,24 @@ function Navbar() {
      <img src="/logosansbg.png" alt="logo" className="w-28 h-28 object-cover" />
     </a>
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-4xl font-extrabold justify-center">
-      <Link to="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Accueil</Link>
-      <Link to="/formations" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Formations</Link>
-      <Link to="/services" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Services</Link>
-      <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Notre équipe</a>
-      <Link to="/contact" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Contact</Link>
+      <Zoom>
+              <Link to="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Accueil</Link>
+      </Zoom>
+      <Zoom>
+              <Link to="/formations" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Formations</Link>
+
+      </Zoom>
+      <Zoom>
+              <Link to="/services" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Services</Link>
+
+      </Zoom>
+      <Zoom>
+              <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Notre équipe</a>
+
+      </Zoom>
+      <Zoom>
+              <Link to="/contact" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Contact</Link>
+      </Zoom>
     </nav>
     <a href="tel:+221 33 832 89 64" className="mr-5 text-gray-900 hover:text-blue-900 text-lg font-normal font-lora">
       <span><svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-pink-400 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
