@@ -47,7 +47,7 @@ function Formations() {
   </div>
 </section>
         <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between font-lora">
-           <div className="h-96 w-full md:w-3/5 sticky top-28 p-3 mx-4">
+           <div className="h-96 w-full md:w-3/5 relative md:sticky top-0 p-3 mx-4">
              <div className="w-full bg-pink-600 text-white p-2 text-center text-lg font-semibold">Menu</div>
              <section className="container mx-auto px-4 my-2">
   <div className="flex items-center justify-between">

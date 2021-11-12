@@ -5,7 +5,7 @@ import Zoom from 'react-reveal'
 function Navbar() {
     return (
         <>
-          <header className="sticky top-0 bg-white z-10">
+          <header className="bg-white z-10">
   <div className="container px-10 mx-auto flex flex-wrap flex-col md:flex-row items-center">
     <a href="/" className="flex font-medium items-center text-gray-900 mb-4 md:mb-0">
      <img src="/logosansbg.png" alt="logo" className="w-28 h-28 object-cover" />
