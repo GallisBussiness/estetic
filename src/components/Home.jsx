@@ -15,27 +15,32 @@ function Home() {
     return (
         <>
         <section className=" bg-banner bg-no-repeat bg-cover bg-blend-overlay bg-top min-h-screen">
-  <div className="container min-h-screen mx-auto flex px-24 py-10 md:flex-row flex-col items-center bg-gray-300 opacity-70">
+  <div className="min-h-screen px-10 mx-auto flex py-10 md:flex-row flex-col items-center bg-gray-300 opacity-70">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 className="sm:text-5xl mb-4 font-semibold font-lora text-black">
         <Fade left>
             Bienvenue chez Kari's beauty center
         </Fade>
         </h1>
-      <p className="mb-8 leading-relaxed font-lora text-gray-900">
+      
       <Fade left cascade>
+        <p className="mb-8 leading-relaxed font-lora text-gray-900">
             CK ESTHETIK se veut un centre d’excellence au service de sa clientèle, c’est dans cette optique qu’il vous
 propose une gamme très variée de soins du corps et visage ainsi que des soins des mains et des pieds, des
 massages, pour un public masculin et féminin, maquillage et bien d’autres prestations.
-        </Fade> 
- </p>
+      </p>  
+      </Fade>  
+
       <div className="flex justify-center">
         <Link to="/formations" className="inline-flex text-white bg-indigo-700 border-0 py-2 px-6 focus:outline-none transition  hover:bg-pink-400 rounded text-lg font-lora">DECOUVRIR NOS FORMATIONS</Link>
       </div>
     </div>
-    <Zoom top>
+    <div style={{clipPath: "polygon(50% 0%, 100% 0, 100% 100%, 47% 100%, 0 48%)"}} className="bg-white w-1/2 flex items-center justify-end">
+       <Zoom top>
       <img src="logosansbg.png" alt="illustration banner" className="mb-10" />
     </Zoom>
+    </div>
+   
   </div>
 </section>
 <section className="py-20 text-gray-700 bg-white bg font-lora">

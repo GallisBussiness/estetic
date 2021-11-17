@@ -6,140 +6,160 @@
             "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIbSURBVDjLpZNfZNVhGMc/7/v7nTq1P9Vkso0kJy1ZjZWZ6CKTlMW6qYmUFNkuqpslYnSxXYwolXURXdRNTRszRU2aWTRbaTctUs1pSjSn/M7vvH+eLn6nsYixh8f7PK/3+fD9eh8lIiwnNMuMZQNCHtb/R4MH48EasB5MAaxL7hxQEIghBCDT9s+sX5zOg3NJbVyxtvDiQREAkMuC94grPrAWcRaMRaxJemMQa8EaUpVbIZK/AAERaLiESpUhU7cR59A7ToONcMPn0QeuoVJp7EgP8mUSjCkCrE20iYdUOTLehWq8gnIx/vUtcB69ux3Mb8xAB0HdUeyniQWAxpgE4AV0CKUbwVtkfhbd1ImuP4WfeYJav4XwyB3851fgE4nEQkiUT/R5jwLU9hPIhyEorcY9akPv70Vva2W4r5URX8J89AsTaZrjrxyLhZDYJjTvwRv8xHX0rgvI+yGC1nvgDIODXUxVrGNvbQM1FRlGph8z8O4l38sDlPRUCTuPI/xMXLcWMYnTYhL3z87lOXzwEASaltoOep+dIUDT3z+IJhIwBpVPo/Or0PFqAlNCYMsJZS2hVPAt94OUKqWltgOAi/v62FxZR0FBSCTw/P7Cz8IJFBafueo009kx3mRH6Wy+S/fTk6SDlawQUEvZxsb2qqs1m9ZcbqrbQ2ZDPTNzk4y9HWX243yvWuo6N7ZXdQPngDIgB9wcv5Ht/APUTCZid72ZzgAAAABJRU5ErkJggg==",
             "prix": 206946,
-            "duree": 13
+            "duree": 13,
+            "categorie":"pedicure"
           }, {
             "id": 2,
             "title": "Account Executive",
             "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJBSURBVDjLpZNLSJRhFIaf/1JO3lAbZyjDbpiXRC1FFFsUtJSwhMBsFy3b2CZaRAiuWre2opDCBCtalBl5qzSjhAwkqlWljRZizuj/fee0mHKmaFF04PDCd+A557wfx1FV/id8gKvDX8+pctKqbBERrIARwVrBimKspKXFGsWKTHQdL6n3AUT1VGt9TvhfOp+//qZqbQIrEgbof3sZIwZjDYEYAhuk1Jq12pnGLoLAZqQBkj4cqzjxV92/JQyBsSkPrBUAekbm/gpwqK6A1XSA+QEAaNsX4cboLEebomtvg6P3KcsYJVrVgbc+l9hi4tcJAiuIKr4HNx/P4XkufU/mcFzwNcHOxF1C0SaejfYwn9tCeVEmq0ES4P5cQQHfc2htjOC7cKQhwuH6CE0bx4kU1ZG7aQ8FyyMc2LGY/FojKUBgBRXwXbgz+RnPS+q9p1N8mu4nJ5yHXbxFuLyNqaFurDEo6QAjqCrrPGiuLSTkOzTvDbPbGSBa1gKJ54xfuUZ2XpyMhQns3DhZGX4KYCRJ81yHgZcxAIbHHhIsLZCTv4ysvAMV7NIE2/d3EJ++hGfjaQBjkh64cLA6jO8aovO95BXXIMtTqMSpbS1FVj8QCs1QuK2JamfwNw9UqSzO5uNCnM3Ljwjll5CZE0PNPDgek30zgCCJGQp3baVs5QFDnZUVjqpyuvv1iAlszaqVrMBY2vUsDe0X8dz3qPkCpF+si7ehlNlXL5i53dnr/Omcxy7UxtRKpoqiImmpa4oIqjr5HZAwT/Ha9ghQAAAAAElFTkSuQmCC",
             "prix": 139751,
-            "duree": 19
+            "duree": 19,
+            "categorie":"manicure"
           }, {
             "id": 3,
             "title": "Marketing Assistant",
             "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKtSURBVDjLpZPrT5JRHMfdetn/4evet3QrhGayZathrbwNppMU8ckFONEhoiGFeMNL4o3yBoi37lQQ89rYypaLIitTQVSUWKC9+Haeg5P5svXi+5zf7/t8f59zzrM9SQCS/kf0MeAKKfudodWe19vofhlE54sg2p4F0Px4A43T69BN/ET92A+oLd9QPexD5YMvUAx4F44Afc6dYCT6B/+iW73LsSOA6dUWNWEWAQNCoDcXMN0AOrKAtstAIx9o4AHqs0DVGZqVdH3AEaDLETwEkGGHHHheDjyVAk+KgclCwJ4HjF4DBgms8jTNFhnfJQDt5L7HTtCfD/SRoZ4coPs60EmG2wVAKwG0XKJZYbMnAWghH4s1H74JsCaG3X66jszEe8tsvLfPxdfgXhQ5+sUEQD+1hvDvAzpgYTW7CetsALb5AOxEUvtNlIwVodhaiOm3fnzdCOOqdi4B0I2vYo8AbPOb8Z0O18nF+AmYcQla39+DZExM+89re7iimUkA6mzfsRs5wMTiJmwzq2CaS6GuV8NkMqFGcweMWQJmVIKKGgX1tFodsuVdSElJOUkBqpEVhH7tY2phnQYMBgP8fj98Ph+cTifqG/QwtnfC6/VSz+1200xGRoaWApRDPgpo7JnAbZkCnqUl5DO5JHABIpEITU1NkMvltObz+VDXaiiEYZhdClCYP2GHAMoq6qDRaCggFoshjcuDw+GAx+OBy+WC1WoFj3cega0wBahUqigFlPctYzscw/1eMySSUgqQVSjB4XDA5XKRmZlJxdYcThqUVdUUUFBQEKKAMtNHd0nHUiRb/QgXs/KgvWuAecgCm80Go9EIqVQKmUxGa9YzD1qg1ekPyHWWj/2aycnJJ1JTU0+lp6evCIXCiFgsjhLtCwSCbKJzpA6zHvuOzbDZv+ti+O9p0FSiAAAAAElFTkSuQmCC",
             "prix": 46292,
-            "duree": 8
+            "duree": 8,
+            "categorie":"pedicure"
           }, {
             "id": 4,
             "title": "Staff Scientist",
             "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIBSURBVDjLlZPNTxNBGIeLV/8FNUYisaIRqOHswat3DfHgzXhUIwQIQWKUgyFq2pgm6oHgxcKBiJ76YRcS8CJJNVFoqZSaXbof3e3H7s52qz9nRoZIkRQneTKT7LzPvL/JTgBAgI5jlBClvw0nKUdYjSCwIwgRQizf9382m038C/od4XD4aatECPpZcb1eh23bu1QqFZimiVKpxCWKoiASieyRsNHBBGyD67rwPI/PjFqtBsuyoKoqFziOA3ZINBrlkn0CVixgAlZQrVahadq+SDt30rFHQGPsbmBrlltE0XWddyLL8sGCVoSkXFzE1sooDG0LhmEcXsBjuVUUlu7AyMYgZ17ySP8l0NfeQPs6A7+ew9rbAZjK58MLHGsT6wvXQbQFEHkK5Y13yKfG4DdIe4HfaKC4/Jh2MAtSnIA0GULDmMXqq8swcqn2Aqv4Ed8TI/DUaTi5G5Ae9cItDMLKv0fm9TUETxy9dKCAtfht/iZMenHu5l3Y61f/kKVx5CcopJ9h+nYw2ir4JQTbmTkUpCl428/56XZ2gEbo47OTvwVHmUdy/Fw5fb/7rHgLF+nfZ9Ni/pg+vbgCR9+AV06AqPQO1NhfzMGvfcGPlRkkR7piQnCcScSzlSZ7LelhD0k/uEA+TJwnqfFukhwLkuToGZIY7iLxodMkPtjpxu+dWvwNhj+uekyCXgUAAAAASUVORK5CYII=",
             "prix": 437276,
-            "duree": 7
+            "duree": 7,
+            "categorie":"pedicure"
           }, {
             "id": 5,
             "title": "Accounting Assistant III",
             "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALvSURBVDjLZZJdSFNhGMf/5+zo2pyb5cdyxXRNW2WkhhJGXlReFEZEBV0UVARBIAiCXnojdFE3QUQR3k6iC6GIoK+LMDNBaVpOW04by/yYzuk8O9v57DnHJqteeM57zvue5/c+///zMpqmITv6+vpsqqp2KorSRLGDAhRxiiFZlu+2t7dv4J/BZAF+v7+OkvtdLpfHbreDZVnQN9LpNGKxGGZpEOh8V1dX4D8AJdto87PX660SRRHRaBQ8z+ung+M4OJ1O4+dgMDhNa4e6u7uFLIDTH7R4q7y8vEqSJIRCoRkq9wSt/dIBgiC4EonER4/H46qtFKqqmXBq+vlt8MvvwaTnrhoASmiyWq0Ih8MgyJm2trZITpWRnp6eFmbtbbChuhiWkitweOqRmPVh6nXvnSygVNecTCb199l/jbpc56+3ey7BXtSAeHgS+YyIQvtO2IrdDiYycF0bCvuwuGYxNJ+tGYFJk6ApMjRZJpPWUVTVDMeeU8jMP4GwwmDpWwpSWlxJCxtHOZCJFy8cBwMWjMlC82lAZcidbUjFhpFJBODwtiI99whsvow8WwXM/BhSfH5LY8ebEKefBGiQl5+CM5eAYWwEyMPCHClhVJQdPEfJD8HmyRDXPVgZHEWaX8LhjkmjnaxeJlS6C4qIxMQoEsERLEQmsRrPoKymFeJCL0z5GjLrFYgNfILz5DWoUmrLHwJI0GVoioQi314siSziCQskzY35L/dBVwl8fBeWB4ex3cuAK7BDk8QcAPVe0xSqQMLq1wDGxn/gwLGbMEc/IPRsEIFXcUy9fAfWtAaWU6laFXrOXwBotEgSiqor8X1mEeLEC3hqm1FQQN0Zn4LviJtOL6auiIbcXABnlENUVdY9mMBEaB73Hj9A475KWEvNaNrvIx9+QuKTKHRT+STKkJ0L0CWYd9+ApcIEf4vZaCHZTmCSJgpQhCQpzFChyqZfuvFbADGDmf5Ooyx9Q6dvhrw10w3bvFiKsvmug/6M39LTvtXHnYlaAAAAAElFTkSuQmCC",
             "prix": 99324,
-            "duree": 6
+            "duree": 6,
+            "categorie":"manicure"
           }, {
             "id": 6,
             "title": "Statistician III",
             "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIfSURBVDjLpZPNS5RRFMZ/577v+L5jmlmNoBgE4iLIWkgxmTtx4R8QLXLRB1GYG4lAwlWkCH1sShcRuIgWYUQoBIUVgojLyowWLSRhSCNtchzn672nxYxT6hRBD/cuzuW5D+c5H6Kq/A9cgM6+0VtBTk4tJwM/kS7BspvDsAc7w4w8uXGyxwUIrHRev9AcqYlERMRFAS3+E1RBdSNWglyGs9eenwbyAsuJwIvsjUjX7QfU7duF51gC9cBUYYT8NYJjhM8fZ+nvuUg2EClaSKbBGJfGhv0cjLbiGAfVAMQFEYwIIgZjDCHHYO2WGmzY9DwfP1yRz/cv0KLJLQLZTIpsah1EULVYDbDWIICq4khALpNE1W7PQBW+xmN8W4qTtTmsBvxIL5IJ6pECp8ZbYX0tDmpKC3xZLCe0kPr1oBFUU0XyCmEWFnT7HNgC3zhlGMcr6TtITJBLvKK6+jtX7z/ElDV4cGJzBn9COv6MPZXTNDcfpX53I6/nnrL+ftKPdtfddAHUWgRYmp8rKRAKPabtSAeBCThc287Eh1GiTS3Mfxq75OZnLd+coYG+YvQ7rtzpJyQVdBw4B8DltnuMzw4DY74LsDNs4jaXqqotl3wLC4KFw+panLnYNG9jU/S2jzD44gx+vlYpF2CHZx6dH3h5LJnVJmtL7dJxf+bdtNdyqJXx2WHKxGXqzSTAkPzrOke76waBLqASWAWGZ+7Gen8CJf/dMYh8E3AAAAAASUVORK5CYII=",
             "prix": 461330,
-            "duree": 17
+            "duree": 17,
+            "categorie":"manicure"
           }, {
             "id": 7,
             "title": "Office Assistant II",
             "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHdSURBVDjLjZNPaxNBGIdrLwURLznWgkcvIrQhRw9FGgy01IY0TVsQ0q6GFkT0kwjJId9AP4AHP4Q9FO2hJ7El2+yf7OzMbja7Sf0578QdNybFLjwszLu/Z2femZkDMEfI54FkRVL4Dw8l8zqXEawMBgM2HA6vR6MRZiHraDabH7KSrKBA4SAIEIahxvd9eJ6HbrerJKZpotVqaUkavkMC+iCKIsRxrN6EEAKMMViWpQT9fh/0k3a7PZZkBUPmqXAKCSjAOYdt21NLUj1JBYW7C6vi6BC8vKWKQXUXQcNA5Nh6KY7jqJl0Op1JwY/Hi7mLp/lT/uoA/OX2WLC3C9FoQBwfILKulIRmQv1wXfevwHmyuMPXS5Fv1MHrFSTmhSomnUvw/Spo3C+vg3/+pJZDPSGRFvilNV+8PUZvoziKvn+d3LZvJ/BelMDevIZXK2EQCiUhtMDM53bY5rOIGXtwjU3EVz/HM5Az8eplqPFKEfzLR91cOg8TPTgr3MudFx+d9owK7KMNVfQOtyQ1OO9qiHsWkiRRUHhKQLuwfH9+1XpfhVVfU0V3//k4zFwdzjIlSA/Sv8jTOZObBL9uugczuNaCP5K8bFBIhduE5bdC3d6MYIkkt7jOKXT1l34DkIu9e0agZjoAAAAASUVORK5CYII=",
             "prix": 147102,
-            "duree": 6
+            "duree": 6,
+            "categorie":"pedicure"
           }, {
             "id": 8,
             "title": "Engineer III",
             "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAL+SURBVBgZBcFNaJtlAMDx//ORjzZbs7TJkmowbJcdZqr1oNavCiIIMraBh0IY7uZx8+OiVw9SQZgXp3gR3A5OtIigcxMcylyqVPADh0WNpO2bpk2bvm3e5P163sffT1hrATj/2drDwKXjR7JzwyhhGCVEScIoTlzgAOgBBugDO8DHwA0NAJDE8SMPVA7NvTpfAgAAwAuT/DBM8n3fVMMIDgLDf70BX//jPQtc1AAASRyXJ9ICgLU9Q0oItAClIZOS3JeRKClJKZitjnFPPjf54U/OOxIAwETRRE5DnMBBKHAj2AvA9cH1YWcEWwMDwOtX28wdy3F/MVXSAAAmiiYPpyVeAJ5vkFKgAaVAKlAIlIAEEGaf5r99fmm7jgYAMGFYzo8p3FHMMLBIaVESpBEoCQqLUoBVdPcD3r359z5wXgMAxGFYK0+kcH1LDGBBGYG0gAGFRVtJYsGkDHEYH/vi5cd3JQCACYNaJZ/BCy1CghICCUhAAADCgrUQBwEmDAyABnjuzetjWsl0JiUJjUFiAYsFDAIAAUgJkTEMvGEM7ANogDgIS7lcFinAD3xav/2Iu/4npakCTneHk0+d4dDhSW5f/4jfiwUek1uy67Rfm59/6z0NYMJgXOfSWBOxfONT8tLjxXMNPM9jfX2dZvMrVCrL2dOn0FrR6XTkysrK2+12uySeuHClCFw+Mz/7wvHsFs3vv2WhscDVT77kr1/vMF2pUK/X6XQ69Ho9OpubpI9Ut155qXF0aWnJ1SYMnwGeX7nb4k77Z2aq4wD0y6cYDG+xsLBAoVBgMBiwvb3N5fc/YHf8wW+Ac/l8PqNNFD10+umZsTcaj3Ltmkez2QSgtvs5a9KyuLhILpcDwPM8bJIwtXv7STjJxsaGr00UtTZ7Lldu3iXU0/TdAT98d4v6zAz1ep1ut8vq6iqZTIZarUa5XMYPo6PLy8t7juNsitnGpSJwEahhk6KK9qpToz9O3Fsp6kw6LYSA1qhEdnyCaVpYm9go8H3Hcbqe5539H/YvZvvl5HpaAAAAAElFTkSuQmCC",
             "prix": 317647,
-            "duree": 12
+            "duree": 12,
+            "categorie":"pedicure"
           }, {
             "id": 9,
             "title": "Electrical Engineer",
             "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJ/SURBVDjLY/j//z8DJZgsTV+9fAu+uHo8+GzvXECWAV+c3R//mTn9/ydLu4eka3ZyY/ts63T3k4Xt+4/GlqS74JONY+9Hc5tdH4wsmAmGgWv9xQKX2nMPnapOF4A1WzsEfjSzefLB0FwUHoi/szPX/05P/f0rOWk9ugHONWefzNl44X/B/L3/o7LXnn1h4fitN6i22Tx7W5tpxqYHxmnrChh+p6X+/rd10/+fsbF/f0REmiE0n7F3rDz5wb7s6Bu3gt3Vz80db69zTd1mlr11tUnGxt89Cw/8N0ha9YDhZ2LC+p8xMb9/hEdc+h4Ucu+br//JFXFNi5zKjz20KztiDzIMGFgzP+iZboQZbpSypsAgaeUjvfilqIEI9C9bV1LfvnnRaT96Ghr/zZs3739Xccn/S9aO3+cEh6nV1NTcBYm1tra+y8rKKrWzs+NG9q+EY8XR4+7RFdcmTpz4/8WLF//v3r37/+DBg//7S8v+V1dXH7p58+YPkNiRI0f+g9T4+Ph0MbjWXSgA+vc50L9vLEJq5hcXF384d/ny/4iIiG0+3t7/UlNT/0+aNOl/ZWXlfxDb29v7D0gOZAhILYNT9ZkHk9dc/A/070sjI6Oupqam7yAD/P39uezt7T/v3bv3/7lz5/4fOnTo/9q1a/+DxEByIANAahkcKo4X2JUefmBTtL9AV1c3Mz09/T3IgKCgoJ2Ojo6/3Nzc/gcGBoIxiA0SA8mBDACpRQlETSDw9fW93tvb+37VqlVv161b93/69On/CwsL/1dUVIDZIDGQHEgNSC2KAWpqasxAJxp4eXndT0lJ+ZKdnf0diH+Gh4fHAbEzkP0JJAaSA6kBqQUAGVqFjOjvxXwAAAAASUVORK5CYII=",
             "prix": 321540,
-            "duree": 13
+            "duree": 13,
+            "categorie":"pedicure"
           }, {
             "id": 10,
             "title": "Help Desk Operator",
             "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJLSURBVDjLpZNNiI1hFMd/773vjJlxR2iMKUyZSfItHxlJaQyxYCcbJYqlpR1R2Ck7ZTdWytfCQsnHpJCGkWTKR2QmZMS4d+573/s8z3nOsZhRFhZq/ptTp/P/9f8vTmJmTEcFpqlpA9LT177/s4OoEoLiRAgBcjFyJ7gg5N7IgpLnQgqwaUnzX1ZD1Ihxcko0ghhBlRCMIEqIihfl0v1vkwCASk2IypRJ8XHqWAwvipOID4YTxQdlbiklr04l2LWmxJ2XE2xfVaJci1x5PM6+njk0NybYZChefqoxMFzm0Lb5OFH6B8bQPFBwItScMqdURBVmNBTIfaS5MeH8ra8kwKmro1x/sYeRyl7aZxuL25vIg6KZUMic8OR9xsbuFm4OjtPUkHC0bx5pMaHqIgZkLlIXz8K2ZRzpX8fPLMOFiGWRtJobvctbefC6wo7Vs6g55eyNz9STAyiB41cjvhhY0LqEZR2bmKhnHL68lPb0Nuo8aTn3hGg8HK6wvmsmZlB1Ao2eHSsOEk2JGlGML+VRVi3cQtXnDI1uJtHLpL9qgYt3vlF1kRNXRnCiuGAUC55oyqcf7wgqiAZCDFTcBGsXbaUaaoz37SetTAi5j7Q2FfENCU0hIcwwxnwdicL8WZ2IRqIpX8sjzC11MDT6iKcfhhl/eIGk+9hzq+eCBUOdYl6woGzZfZi693j11MXT3bacnq6dPBt5zN1Xg2RPz2LVTpL//caVZwrZhs7eloG39z57ZfuXc/YG+H9A18kki1psyTV2jZ2zj3/2vwEmE35dgxn8EgAAAABJRU5ErkJggg==",
             "prix": 75622,
-            "duree": 3
+            "duree": 3,
+            "categorie":"pedicure"
           }, {
             "id": 11,
             "title": "Information Systems Manager",
             "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAI1SURBVDjLY/j//z8DJZgsTV+9fAu+uHo8+GzvXECWAV+c3R//mTn9/ydLu4eka3ZyY/ts63T3k4Xt+4/GlqS74JONY+9Hc5tdH4wsmAmGgWv9xQKX2nMPnapOF4A1WzsEfjSzefLB0FwUHoi/szPX/05P/f0rOWk9ugHONWefzNl44X/B/L3/o7LXnn1h4fitN6i22Tx7W5tpxqYHxmnrChh+p6X+/rd10/+fsbF/f0REmiE0n7F3rDz5wb7s6Bu3gt3Vz80db69zTd1mlr11tUnGxt89Cw/8N0ha9YDhZ2LC+p8xMb9/hEdc+h4Ucu+br//JFXFNi5zKjz20KztiDzIMGFgzP+iZboQZbpSypsAgaeUjvfilqIEI9C9bf8rk3Wd8kz59sHV+BQysa8DA+vNe1+Tr8VD5hgO+fA/3OLH82+nK/AiIK1ACEehfCceqU8fsy48ttS05xAkMLANgYP39N23K/1t26n8vFlv8/L619/+/azv+f11R9P90tu6fXc4suQyudRcKgP59DvTvG6B/S5Fd9F7baP07Nb3f+xzZv3wDav4/yff//3LB///bFP+/7nL4v9OF+R6DU/WZB5PXXPwP9O9LXNEJcva/s+v+I4P39RL/QeIMDhXHC+xKDz+wKdpfgMsAoH8ff5mb/P8/UNOPMob/74D4YQbzf6D4E6JS3+FwqYaTKaq/n5Ur/n9Vyfr/bgrj/72+LH92uDJXEZ2Ej4TLVgBtvA+NhccgzSBxAIJCoGJnoURSAAAAAElFTkSuQmCC",
             "prix": 499200,
-            "duree": 19
+            "duree": 19,
+            "categorie":"pedicure"
           }, {
             "id": 12,
             "title": "Quality Engineer",
             "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKJSURBVDjLnZPfS5NRGMffq/6BIMhuuvRGKLqooItuugiCoi4qiNDoh2RS6BCnkA6mG+3dD0bvHDXB0iTtwm1M4X39sQ0ZqAzJJYGUNWFuMje3vdtSW9u38xxaDOvKA9/3cA7P93Oe9znPEVwul8XpdN4CIBxGwsDAQL3dbp8zm80NhwLQx2Qyafr7+8O9vb3HDgXQ6/VHenp6ZrRa7Vx7e/tR2ltYWDDMz89X/H5/RVGUvcnJSb/b7b7wXwApEAi0tLW1bVksli/BYDDEzD/YACkT8OO7x42xsbG9kZER7T+ASCQiLy8v/1paWtoLhULY3t5GPp/HVlrFuhzEtzOnuJLTCgYHByus6G/+AlZWVsSNjQ1+0vMpLTeqqopEKofG9xXceQcEX3mQcEjIJpM8bnZ2FqIoGjiALYpkymazHFBVJpPBZjKLaCKHXC6HQqHARXCK7evrK7OiXxdYcSoEOGiuKhqNgmUJq9VaIe3s7PAs19bW0NXV9VWYmJgoE7VqqALS6TRkWYbP5wOLQbf52c+nL2/vP7RcRdOLy3grS9BoNBDGx8fz8Xicp0VGSjeVSmFxcRFer5cqj06xFboPTfCtSvgYV2Cdfoyb1gZca70IYXR0dJoqT0YCkNnhcMQ6OjrU5uZmMKl3DZfKnk82eD7bQUOceQDrzCOca6krCcPDw510Et0EAeh3WHvna+/6SvdpTK26UDu8EQlnW45DGBoaOsnuNR8OhxGLxVAsFmGz2cq1gPNPTuyalHswKI3cbJAbeQYMsMsDJEl6zdoUrJnAmgrsXezXAlig/oZYD7Nyn59MM63ZvsgD2GusY42xbjQaS+x+SzqdLnSw51mwkUmltP/MRtr/DeMW8yghqDBkAAAAAElFTkSuQmCC",
             "prix": 82798,
-            "duree": 19
+            "duree": 19,
+            "categorie":"pedicure"
           }, {
             "id": 13,
             "title": "Structural Engineer",
             "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJcSURBVDjLpZPtT5JhFMafrW997I9rscA+FFu2QRurtlw5cQ4InLpwBogIPNFSiNJ4C+JVkj0QTBHQKFPQlJfwlanY1tXz3ARkn2jd27Wz++yc33XOvd0UAOp/RNGR/X5zeH9rOlTDVKAK3fsqJrxlqN27GHPuYHh+G4rXRQzZNjEws47Hli/oo/PxNsAU3qvWT3/gX3TPuHrWBhiC30nSktXDtKLB1NI4NKkxqBMqjDByPFkcxNBCPwbCfXgUeEBq705m0AZM+qsk2e3hau88W+4ANOy+XPLFQrkrcbW31KkOYJx9rBaAOzPR0gVHW6x593q9cDgcqB6e4sZoogMYdXzD0ck5ZhfLsHGKVfAqVoadKcMdzcLr82PuwwZCoRACgQCWVzdhoK2gaVpDAMNzWzhkAXamQpze/I4t13w+j2AwiFwuh7W1NXg8HmQyGSgUCshkssuU3F7AQf0c84kK3n68KFc4hXQ6DavVCqlUCqVSSdaIx+NQq9UGMsHg7Ab2jxtwp5rOvqUqia3CUqnEObWn0mp1KBaLcLlckMvloPpfrhOAl230/SGLxQK3241CoQC9Xg9nskKk1emQzWZZkBZCoRBU3/NP2GMBgXTTObjSjI1GA8lkEgzDwO/3E4iObXY6nYhEIhCJRHoWcIW6b1pF7egMlYNT7NROUKzU8XX3GJ+3D2E0GgmAm4Zbh2s0mUyIRqMcAGKx+BIlMeSiYu1K/fbEMm4+TaFnJIHrSgZX5TFIZNPo7e1Fj9QOs9kMlUqFaw9pCASCnzwe7x15xG6/rUQiAZ/Px9/5XyhZOMVGKlOdAAAAAElFTkSuQmCC",
             "prix": 24654,
-            "duree": 14
+            "duree": 14,
+            "categorie":"pedicure"
           }, {
             "id": 14,
             "title": "Food Chemist",
             "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIYSURBVDjLfZK/a1NhFIafm+YmTauoFTEodmgdxK1THfIHOIlQBwcXkYKb4FQcOlSHTo51qOggXcW/QUpLUQoKVWhd7GKEGoxNbu693/nhkLYkJnjgcJbvec/L+53I3Tmum8/e+/1bV9n83sDEUTVUDVNDxKhNn2dlbZuPK3eiY6ZIT5kqZo6EI1C6U6XbIo6K9iL9AifbgnahHvhE8B+BQp8DUdpJ4NLpMiHXvr5ypkIryVD9rwNdOvjyYfHehU0ulvcYtTYAiVf4wRSvd2YwKS71MlFviL5Wm0+0/Dy+fvdUKE2iWsAlJZKEuLNPvvu2NU7yuPjw0+qAgL+5MQvRu3zmSTXLy1jyG0nbeEhxySEaoTwaMbb7ok7w2/Gjna3+DFQW5NqDaiYVNGmieRf0kGNpgjQPSBpN0sm5qh3qwkCIblIL41NY57ALSg4SsJDhkmOhg/z5RUfGINPaYIjmE+YjeEgxyXENmHRhzY9EshTNBNNoYsg3Oq6KSTixftJ6NCXHNcNtyB24eSMKLTDtty5ZN4eQAQaSQaAx6EDDerH5lagYY5r3We9uVgpxhdHsJ5KzPuigY8vF7Vf1OEooxKNghmvAQwB3RirjlMdjip836m6F5aGHlD+9Oo+wlM/MVdPSZVQMzxIICaX2PsXtjbpJtHh2dW91qABAujA9ay1ZIFjNPJpAwT1qmLBupXj53MtvW73v/wKskrUnmSsmJgAAAABJRU5ErkJggg==",
             "prix": 427022,
-            "duree": 13
+            "duree": 13,
+            "categorie":"pedicure"
           }, {
             "id": 15,
             "title": "Analyst Programmer",
             "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJbSURBVBgZfcE9iFxVGMfh33v3zM7uODMr6iaoqJWypBELZfEDCy3TWElQQRAstLKwMJ1iJVqpaBdCyq1tLCVWsVhihBAwyy4SdWMyc+fjzr33nPP+XWEkW7g+j0niv5z/6vsvhr3eG6OF1swMMzbklCyZOU29uBA4wbDfe/Ods1ubvV7fuGeDpVkT+Xpn9+3ACcqKbq/Xt+u3Jlze/5CN4V9UbeTg8EGef+RTtrcexWzFAicwY5iA5E6/f8h65wGcBl/d589Rhcsx0zBwAomJxMa0ahnVNVlzZrHhblUzogEZEpNw47tnd9eGZ86YFdwjOsVbKxJMa2f/1pN49xqzWDEePcFTp7v8K5iKrcdevNAxMxBHBGakn3/EHcaLzNOnP+KZ/Q/45cYB45c/J8WEADMbBpJqvO02f3xDblegGGI2AJ3CEFd/e58YI1falvbhDu2114kxcu6FK0gQiFbIW3K7ilz44oDF7T3OWsWdS3u8xzErwHqA9UCwCFIZMK15WjD//ZD5zZ9QiljosnXuIimJpolg4A5FARbuY7HzCl/u7Jbz2eJiIBaE9VNsbp9nc9v5h/KENPkBb/aAiOIM5TnyirXHP+ZX4JN3X7qfI4EoKdd4dRXlklxdB0WQI68xE8pjlGcoVyDnuECD5AmPt1EqwQLKM1ACNUgFynM8TVGeghnHBVrJyCjdRWmM0hjlEqUS5RKlKcoTlOfIa7w54EjNUlDro1Td6cXZ6gAfFFIHfAB6COUGaFHRAC1WZHJdS603LAXVzWc3v33tOcSrGAP+jwC73OK6xNLfULttUqzYsnAAAAAASUVORK5CYII=",
             "prix": 180124,
-            "duree": 15
+            "duree": 15,
+            "categorie":"manicure"
           }, {
             "id": 16,
             "title": "Help Desk Technician",
             "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMBSURBVBgZBcFLaJxVGIDh9zvn/2cmmWTSJk1oxUu1xCZoi1qvi6gggpRIdd2Niy6KVRChiCBeNiK4KOiiGxGKkNiCpKIhQrzUxiINkmJqQqdt2iQzk8xkkiZNOpfMnHM+n0dUFYBXP774VksmedQIh4AUIAAIoAIacCHMbazpb7K5fnLi9GADQFQVgMOfX5r47t1D/cbIDgWLAgCAKoBSvtdk6J8Niovb1dn/rnX+dXpwOwIAMFb2JyK7Y2YFa0RAQAN4DTin1Jqel3vbee7RiMuh3Kqhb/2ld0Z3iqry0Rdfdy4vFdYsgTeOHufst1/RdJ73Pz2FD4GGU+oNz4u9KWbKitPA+L9Ffp+YG7b5tWrHzq7uTzq7up+/OjVJ/4GnufTHGP0Hn2AuO8O+/Y+DWDxKrE160sqeNsvBPUnOTxb7zX0P7M3MTk8dWy2VuFepc/XKJNve0AyGP8dHqWyuE1khYQ0314TLi44LN6okY4tExpmx82eP16qVtof7HqPn/oco37lLJtPOru7dtLam+encGSIRYmtIJiyphCWViFEMiME80tv3dro9wy8jQ1RW83S2JSjl5vj53DeUlnOMjQwTWyE2QhwZEtaSjAwBUIWoPdPRMvj6EW4t5FiazzLwymEKuXleGzzCcqnM+OgPGBEiq6ACCorgA/gAkXMu6bwnOzvNxmqJ4lIesQYxhts3r1FYmAdAEEQhMhCAVAzeKaaytclifol6rUY+l6OytcXd9Ttcz2ZZXSmyVi4SVPEBFAgKCsTW4BqOKL94+/rI92eoONv7YE+X/LjSwq0bC8zOF6hVq/iuvXx2pQmAKgQAYGh3THM7IKoKwMCHF2vDJ59NfTmT4KkeQ1DwCl4gKCigCqowveI49QIMvHehHgEAuO0QXAja8MjfBU8QRREAgoKgBAU1gglCFElwPrgIAKBZ96V0wu764EAjraoGhQAAdLREAKhCSyyIEGIrW96FgqgqAM+c+PWEa+qbIvKkoq0AACgooCgAKAD1EMKUgaH/AfiQhzSolJNMAAAAAElFTkSuQmCC",
             "prix": 107604,
-            "duree": 2
+            "duree": 2,
+            "categorie":"manicure"
           }, {
             "id": 17,
             "title": "Environmental Specialist",
             "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFCSURBVDjLpVOxSgNBFJxcrkmC+AV+gP5BwEKwtLESW0mZD7CyEyViJVhbG7DURvEXBAsDKgpGxIjIecnF29t9byyyAZu9wkz12HnMm3m7WyGJWRC3Dq7aq83FTpKzMcwyqFNYVczHNrvpDc5XmktrXz9siAJpksCKYK5qs9u7t+3T/fXjysn1q9TrtWhqhCSUAAkMR2PUGzWoAkqCBJST+qF3r4ft5Wo8toyy77En/zQpoSRSk/kaEH+mCoxyiQAARxcvDGHv7DnIbe1ekiQiUQ0uyIkEucJaAEAkUiLgwpzNvUDhyqa4sLiZcFHplBJxN41QNsWWOXDegTFFsMnkJixujI9QlOUMR1DxDopC/hVhentx//Gp2+rkG2IdksEHnDioE4goqOxv7uQLUjiIE6Sf76AI/NPpAkBl1t8YYUb8Ao9lHyy2IyRjAAAAAElFTkSuQmCC",
             "prix": 446941,
-            "duree": 11
+            "duree": 11,
+            "categorie":"manicure"
           }, {
             "id": 18,
             "title": "Design Engineer",
             "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAImSURBVDjLjZLda9JRGMf3b3TTdTcFXXXRTbeDIijo5W7GmtWqCysIF1JM9DfffvMN+fk284UpKqRIMCfIDCO7kNSRooJvOBUvgkFEKPv2O8+WsWmtB77n4TznPJ/z5eHMAZiTyWQat9vdCQaDCIfDiEQiiEajlNme1f1+PxwOx1ChUJhYz2/RYrPZCmL+htPjpyAIe1MAr9c7EvPBNdkm/iUWolNMAZg9FrdW3mFRu4Ml/QdI+Swern/EsukTHls+0xkLj8czDfD5fBOAVGx+cKL5qfUPYMPzdjZgPB6jWq2iXC6jWCwin88jl8shm80ik8kgnU7/3cFRkSZvMBhQqVQQCASg0WgI1H/+DLU7NzAajWbPwOWiIjqdDlqtFur1Omq1GrkplUqkQqFAd5yuGQDBbqfDWCwGo9GIdrtNbnieJ1goFIJerycHgmCfBlitVgL0+330ej10u11yw0DNZhONRgObW068ECRYMlzHXeWV/fmXF15NAEajiQCJRAIWi4Ug8XgcZrOZQLqN13gTliCxa8WXvST47Ue4zZ/HpeUzOgJodToCDIdD0mAwmLhhkmjmESutI/b18CFd6j74lJQBfhBApVKNdjKZg1QqBabtE7q6chHvd53H/nS8aGWAw0HI5fLS6qryu0qlhlotiuPAra2B45g4XH5yFtrkPaiTC9Ss3lo47uA0iReVN3XnoE8u0ssss/1kBv8J4UTtM9tHmWP1X8ma/9q6R1ZmAAAAAElFTkSuQmCC",
             "prix": 392544,
-            "duree": 15
+            "duree": 15,
+            "categorie":"manicure"
           }, {
             "id": 19,
             "title": "Recruiting Manager",
             "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJcSURBVDjLbZPfa85xFMdf36/nebbGBcLaMmtM2DybElsjQm5c+PEnoKSQCzfEnZtduLRdSJFc4UK5sEizSLtQNCYXJMXKlMeG7fv5cc5x8X02w06dzqdPn/M673M6n8TM2H/6WruZ3TaoYPQYhhlgRh5s1lUCwU18GLpxfjVAgfzBMYP15bZVyfjXCcxmkiCHKabwfeIX085QK7RQtRwAO8ptTcmujiZWNZSxnICa5lU1r758cR11tQW2HTjOXwDMlpTbm7n//B2VyhSmCoDOqDDD1Pg+OUXmPHOt2gJJoVRg7cZmWuuXIgJmiqohYogqUY3pLHDrzuP5AIaI8nF8klJaJMsygvNEze8jCygUSyxbWIOazQMAVJQoAecch7a25vJzdZgZ1wffEmqL/JP/R0EQRUIkSsrNx29wIRLFkKhEEoqlEj7mQ50XEKPiQ8ArWFpDUixCamiiqCpeErz8D0irQyREIWYRF4QsClkQXIi4KDgvuKlnfP50iZZ1A5R3j7PvXOeFvxWIElzABcnbEcOLEkWR6ac01r9h84YuVi5dy+DoXYZfP7nYfbJxcTq3heBzgI/KdBB8EFxUpn48YtP6TiQVOhv2Ikmgu9wDcCKdWRgfhegiLihZEELQXL4TKj+/UEwWsX/DKQDO7LnCmhUdALWzMxAxxAsu5J6FiHOK98q3yQqjY8/ofXgYgN4Hh3k/PgKQzc6ANGVLVweWJIgYUQytxsQdZHhkgJ6O7dx71U8pKfD05RBAX2Jm7DzSd9WMo/nPm7P/GFTP1A5BzQtIPMAPoH/48tjZ3wRCz4QMKdc8AAAAAElFTkSuQmCC",
             "prix": 111298,
-            "duree": 20
+            "duree": 20,
+            "categorie":"manicure"
           }, {
             "id": 20,
             "title": "Database Administrator III",
             "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
             "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAINSURBVDjLpZPNS1VhEIefc7wXTNQopKTM4IKRaB+GliQtKgpau3NjRcsIzEW1EQIR2kRUUP9AtHFhi4rAqKBCUDOEkDIQPzIIWpjX7jnvO+9Mi3uvUBAIDgzMDDMP/JiZyMzYjMVs0jYNyDDc9h8NCl5BPIiCdyChWAuAM0ghA0BTzz+z+rcHhRCKsQ+lWODN4xIAYHUZVLFQahDBgoAXTHwx9x4TAfFkd+yHgpUBBmbQfoMoW4N9fIiFQHzoEkiB8LyP+Nwdomwl8uoWtjgF3pcAIkVtppCtxcZuEnUOEIUUnXgAQYmPXqb/WQ/5NM/dg/3E85PrgBjviwA1iDNQvRdUsJUl4uPXidsuorMvSILQUNfM+fFBnAqIQGpkKCRFfapEQNTai319St/UfUwdzgJOhF3bmmiuP8Zqskb30hgjfjdbUiNDWqKpgnp08h5xx1Vk8jZnWnoJpgQNKMbyyiIHGrrIuwInF0YY1SoyFAxSDyg6egVECE8ukIgjmDL/cxavgqjHB8+vdJXDe06Q97/pOPK2BPCeKFQSlVcYAokkSBB21jYiGgimfF9ZYHt1PR8W3zEzN87w9FYiu1ZveFu/LIKBg+6uahLncOpIxJGra6Ezd5aJhfdMfxrl0UwN+5IKoo1+Y+tgvNbeeKrq9ZeX35xyennIPgMbB+QGorWgFVUFDbkfQzZXrv8BKB9RM6Fzq8AAAAAASUVORK5CYII=",
             "prix": 414385,
-            "duree": 8
+            "duree": 8,
+            "categorie":"manicure"
           }],
         "services": [{}]
     }
