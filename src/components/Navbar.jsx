@@ -18,14 +18,14 @@ function Navbar() {
               <Link to="/formations" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Formations</Link>
 
       </Zoom>
-      <Zoom>
+      {/* <Zoom>
               <Link to="/services" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Services</Link>
 
-      </Zoom>
-      <Zoom>
+      </Zoom> */}
+      {/* <Zoom>
               <a href="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Notre équipe</a>
 
-      </Zoom>
+      </Zoom> */}
       <Zoom>
               <Link to="/contact" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Contact</Link>
       </Zoom>

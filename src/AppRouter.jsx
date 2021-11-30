@@ -1,10 +1,10 @@
 import React,{useEffect} from 'react'
 import {Routes, Route, useLocation } from 'react-router-dom'
-import FormationDetails from './components/FormationDetails'
+// import FormationDetails from './components/FormationDetails'
 import Formations from './components/Formations'
 import Home from './components/Home'
 import Services from './components/Services'
-import ServiceDetails from './components/FormationDetails'
+// import ServiceDetails from './components/FormationDetails'
 import Contact from './components/Contact'
 
 function AppRouter() {
@@ -23,8 +23,8 @@ function AppRouter() {
       <Route path="/formations" element={<Formations />} />
       <Route path="/services" element={<Services />} />
       <Route path="/contact" element={<Contact />} />
-      <Route path="/formations/:id" element={<FormationDetails />} />
-      <Route path="/services/:id" element={<ServiceDetails />} />
+      {/* <Route path="/formations/:id" element={<FormationDetails />} />
+      <Route path="/services/:id" element={<ServiceDetails />} /> */}
     </Routes>
         </>
     )

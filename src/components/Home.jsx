@@ -1,12 +1,12 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
-import json from '../data.json'
-import Formation from './Formation'
-import { Button } from '@chakra-ui/button';
-import { ArrowCircleRightIcon } from '@heroicons/react/solid';
-import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { Carousel } from 'react-responsive-carousel';
-import Team from './Team';
+// import json from '../data.json'
+// import Formation from './Formation'
+// import { Button } from '@chakra-ui/button';
+// import { ArrowCircleRightIcon } from '@heroicons/react/solid';
+// import "react-responsive-carousel/lib/styles/carousel.min.css";
+// import { Carousel } from 'react-responsive-carousel';
+// import Team from './Team';
 import { Link} from 'react-router-dom';
 import Fade from 'react-reveal/Fade';
 import Zoom from 'react-reveal/Fade';
@@ -74,6 +74,18 @@ compétences au service d’une éthique ».</p>
                 </svg>
               <span className="font-medium text-gray-800">Accompagement pour la creation d'un institue de beauté</span>
             </li>
+            <li className="flex items-center py-2 space-x-4 xl:py-3">
+              <svg className="w-8 h-8 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                </svg>
+              <span className="font-medium text-gray-800">Possibilité de stage en entreprise</span>
+            </li>
+            <li className="flex items-center py-2 space-x-4 xl:py-3">
+              <svg className="w-8 h-8 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                </svg>
+              <span className="font-medium text-gray-800">Entrainement sur des modèles réels</span>
+            </li>
           </ul>
         </div>
       </div>
@@ -81,27 +93,27 @@ compétences au service d’une éthique ».</p>
     </div>
   </div>
 </section>
-<section className="my-3 font-lora">
-<Carousel autoPlay infiniteLoop showArrows={false} showIndicators={false} showThumbs={false} showStatus={false}>
+{/* <section className="my-3 font-lora h-96">
+<Carousel className="h-full" autoPlay infiniteLoop showArrows={false} showIndicators={false} showThumbs={false} showStatus={false}>
                 <div>
-                    <img src="soin_visage.jpg" className="h-96 object-cover rounded-lg" />
+                    <img src="soin_visage.jpg" className="object-cover rounded-lg" />
                     <p className="legend text-3xl font-semibold">Soins de visage</p>
                 </div>
                 <div>
-                    <img src="massage.jpg" className="h-96 object-cover object-bottom rounded-lg" />
+                    <img src="massage.jpg" className="object-cover object-bottom rounded-lg" />
                     <p className="legend text-3xl font-semibold">Massage de Corp</p>
                 </div>
                 <div>
-                    <img src="image3.jpg" className="h-96 object-cover rounded-lg" />
+                    <img src="image3.jpg" className="object-cover rounded-lg" />
                     <p className="legend text-3xl font-semibold">Manicure</p>
                 </div>
                 <div>
-                    <img src="pedicure.jpg" className="h-96 object-cover object-bottom rounded-lg"/>
+                    <img src="pedicure.jpg" className="object-cover object-bottom rounded-lg"/>
                     <p className="legend text-3xl font-semibold">Pédicure</p>
                 </div>
             </Carousel>
-</section>
-<section className="container mx-auto px-10 my-4">
+</section> */}
+{/* <section className="container mx-auto px-10 my-4">
   <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-pink-700 to-blue-700 rounded-lg text-white">Top Formations</h1>
   <div className="grid grid-cols-12 gap-3">
    
@@ -118,9 +130,9 @@ compétences au service d’une éthique ».</p>
  <Button className="font-lora" rightIcon={<ArrowCircleRightIcon className="h-6 w-6"/>} colorScheme="pink" >voir toutes les formations offertes</Button>
  </Link>
 </div>
-</section>
+</section> */}
 
-<section className="container mx-auto px-10 my-10">
+{/* <section className="container mx-auto px-10 my-10">
   <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-blue-700 to-pink-700 rounded-lg text-white">Top Services</h1>
   <div className="grid grid-cols-12 gap-3">
    
@@ -134,8 +146,8 @@ compétences au service d’une éthique ».</p>
 <div className="flex items-center justify-end">
  <Button className="font-lora" rightIcon={<ArrowCircleRightIcon className="h-6 w-6"/>} colorScheme="blue" >voir toutes les services offertes</Button>
 </div>
-</section>
-<Team />
+</section> */}
+{/* <Team /> */}
         </>
     )
 }

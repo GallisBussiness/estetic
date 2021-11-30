@@ -17,18 +17,24 @@ function Contact() {
           <h2 className=" mt-20 font-semibold text-gray-900 tracking-widest text-lg">Réseau sociaux</h2>
           <p className="mt-1"><HStack>
   <Button colorScheme="facebook" leftIcon={<FaFacebook />}>
-    Facebook
+    <a href="https://www.facebook.com/ck_esthetik">
+       Facebook
+    </a>
   </Button>
   <Button colorScheme="telegram" leftIcon={<FaInstagram />}>
-    Instagram
+  <a href="https://www.instagram.com/ck_esthetik">
+  Instagram
+    </a>
   </Button>
 </HStack></p>
         </div>
         <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
           <h2 className="title-font font-semibold text-gray-900 tracking-widest text-lg">EMAIL</h2>
-          <a href="/" className="text-indigo-500 leading-relaxed">karina.chirara@gmail.com  </a>
+          <a href="mailto:karina.chirara@gmail.com" className="text-indigo-500 leading-relaxed">karina.chirara@gmail.com  </a>
           <h2 className="title-font font-semibold text-gray-900 tracking-widest text-lg mt-4">PHONE</h2>
-          <p className="leading-relaxed">00221 33 832 89 64</p>
+          <p className="leading-relaxed">+221 33 832 89 64</p>
+          <h2 className="title-font font-semibold text-gray-900 tracking-widest text-lg mt-4">MOBILE</h2>
+          <p className="leading-relaxed">+221 77 847 43 77</p>
         </div>
       </div>
     </div>
