@@ -14,9 +14,9 @@ import Zoom from 'react-reveal/Fade';
 function Home() {
     return (
         <>
-        <section className=" bg-banner bg-no-repeat bg-cover bg-blend-overlay bg-top min-h-96">
-  <div className="min-h-96 px-10 mx-auto flex py-10 md:flex-row flex-col items-center bg-gray-900 opacity-70">
-    <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+        <section className=" bg-banner bg-no-repeat bg-cover bg-blend-overlay bg-center h-110">
+  <div className="h-110 px-10 mx-auto flex py-10 md:flex-row flex-col items-center bg-gray-900 opacity-70">
+    <div className="lg:flex-grow w-1/2 md:w-3/5 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 className="sm:text-5xl mb-4 font-bold font-lora text-white">
         <Fade left>
             Bienvenue chez Kari's beauty center
@@ -24,18 +24,18 @@ function Home() {
         </h1>
       
       <Fade left cascade>
-        <p className="mb-8 leading-relaxed font-lora text-lg font-bold text-white">
+        <p className="mb-8 leading-relaxed font-lora text-lg font-bold text-white text-justify">
             CK ESTHETIK se veut un centre d’excellence au service de sa clientèle, c’est dans cette optique qu’il vous
-propose une gamme très variée de soins du corps et visage ainsi que des soins des mains et des pieds, des
-massages, pour un public masculin et féminin, maquillage et bien d’autres prestations.
+propose <br /> une gamme très variée de soins du corps et visage ainsi que des soins des mains et des pieds, des
+massages,<br /> pour un public masculin et féminin, maquillage et bien d’autres prestations.
       </p>  
       </Fade>  
 
       <div className="flex justify-center">
-        <Link to="/formations" className="inline-flex text-white bg-indigo-700 border-0 py-2 px-6 focus:outline-none transition  hover:bg-pink-400 rounded text-lg font-lora">DECOUVRIR NOS FORMATIONS</Link>
+        <Link to="/formations" className="inline-flex text-white bg-indigo-900 border-0 py-2 px-6 focus:outline-none transition  hover:bg-pink-800 rounded text-lg font-lora">DECOUVRIR NOS FORMATIONS</Link>
       </div>
     </div>
-    <div style={{clipPath: "polygon(50% 0%, 100% 0, 100% 100%, 47% 100%, 0 48%)"}} className="bg-white w-1/2 flex items-center justify-end">
+    <div style={{clipPath: "polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%)"}} className="bg-white w-1/2 md:w-3/5 lg:w-1/5 flex items-center justify-end">
        <Zoom top>
       <img src="logosansbg.png" alt="illustration banner" className="mb-10" />
     </Zoom>
