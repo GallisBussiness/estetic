@@ -21,7 +21,7 @@ function Formations() {
       </div>
       <div className="w-full md:w-1/2">
         <div className="w-full h-auto overflow-hidden rounded-md shadow-xl sm:rounded-xl">
-            <img src="image1.jpg" alt="" />
+            <img src="image1.jpeg" alt="team" />
           </div>
       </div>
     </div>
@@ -487,7 +487,7 @@ function Formations() {
         </div>
 </section>
 
-<div className="container px-20 py-10 mx-auto font-lora">
+<div className="container px-20 py-10 mx-auto font-lora bg-white">
        <h1 className="text-2xl font-bold text-pink-600 my-3">Tarif</h1>
   <h1 className="text-lg font-normal tracking-tight text-gray-900">
   Formation Complète :		<span className="text-pink-700 font-bold"> 2.800.000 FCFA</span>

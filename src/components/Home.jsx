@@ -4,8 +4,8 @@ import React from 'react'
 // import Formation from './Formation'
 // import { Button } from '@chakra-ui/button';
 // import { ArrowCircleRightIcon } from '@heroicons/react/solid';
-// import "react-responsive-carousel/lib/styles/carousel.min.css";
-// import { Carousel } from 'react-responsive-carousel';
+ import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { Carousel } from 'react-responsive-carousel';
 // import Team from './Team';
 import { Link} from 'react-router-dom';
 import Fade from 'react-reveal/Fade';
@@ -14,17 +14,17 @@ import Zoom from 'react-reveal/Fade';
 function Home() {
     return (
         <>
-        <section className=" bg-banner bg-no-repeat bg-cover bg-blend-overlay bg-top min-h-screen">
-  <div className="min-h-screen px-10 mx-auto flex py-10 md:flex-row flex-col items-center bg-gray-300 opacity-70">
+        <section className=" bg-banner bg-no-repeat bg-cover bg-blend-overlay bg-top min-h-96">
+  <div className="min-h-96 px-10 mx-auto flex py-10 md:flex-row flex-col items-center bg-gray-900 opacity-70">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-      <h1 className="sm:text-5xl mb-4 font-semibold font-lora text-black">
+      <h1 className="sm:text-5xl mb-4 font-bold font-lora text-white">
         <Fade left>
             Bienvenue chez Kari's beauty center
         </Fade>
         </h1>
       
       <Fade left cascade>
-        <p className="mb-8 leading-relaxed font-lora text-gray-900">
+        <p className="mb-8 leading-relaxed font-lora text-lg font-bold text-white">
             CK ESTHETIK se veut un centre d’excellence au service de sa clientèle, c’est dans cette optique qu’il vous
 propose une gamme très variée de soins du corps et visage ainsi que des soins des mains et des pieds, des
 massages, pour un public masculin et féminin, maquillage et bien d’autres prestations.
@@ -89,30 +89,26 @@ compétences au service d’une éthique ».</p>
           </ul>
         </div>
       </div>
-      <div className="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0"><img className="mx-auto sm:max-w-sm lg:max-w-full rounded-lg object-cover" src="image3.jpg" alt="featureimage" /></div>
+      <div className="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0"><img className="mx-auto sm:max-w-sm lg:max-w-full rounded-lg object-cover" src="team1.jpeg" alt="featureimage" /></div>
     </div>
   </div>
 </section>
-{/* <section className="my-3 font-lora h-96">
-<Carousel className="h-full" autoPlay infiniteLoop showArrows={false} showIndicators={false} showThumbs={false} showStatus={false}>
-                <div>
-                    <img src="soin_visage.jpg" className="object-cover rounded-lg" />
-                    <p className="legend text-3xl font-semibold">Soins de visage</p>
+ <section className="my-3 font-lora container mx-auto mx-15">
+<Carousel autoPlay infiniteLoop showArrows={false} showIndicators={false} showThumbs={false} showStatus={false}>
+                <div className="mx-auto w-4/5">
+                    <img src="image1.jpeg" className="w-full h-110 object-cover rounded-lg" />
                 </div>
-                <div>
-                    <img src="massage.jpg" className="object-cover object-bottom rounded-lg" />
-                    <p className="legend text-3xl font-semibold">Massage de Corp</p>
+                <div className="mx-auto w-4/5">
+                    <img src="image2.jpeg" className="w-full h-110 object-cover rounded-lg" />
                 </div>
-                <div>
-                    <img src="image3.jpg" className="object-cover rounded-lg" />
-                    <p className="legend text-3xl font-semibold">Manicure</p>
+                <div className="mx-auto w-4/5">
+                    <img src="image3.jpeg" className="w-full h-110 object-cover rounded-lg" />
                 </div>
-                <div>
-                    <img src="pedicure.jpg" className="object-cover object-bottom rounded-lg"/>
-                    <p className="legend text-3xl font-semibold">Pédicure</p>
+                <div className="mx-auto w-4/5">
+                    <img src="image4.jpeg" className="w-full h-110 object-cover object-top rounded-lg"/>
                 </div>
             </Carousel>
-</section> */}
+</section> 
 {/* <section className="container mx-auto px-10 my-4">
   <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-pink-700 to-blue-700 rounded-lg text-white">Top Formations</h1>
   <div className="grid grid-cols-12 gap-3">

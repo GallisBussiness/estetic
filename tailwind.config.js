@@ -3,6 +3,11 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      spacing: {
+        '100': '30rem',
+        '110': '35rem',
+        '120': '40rem',
+      },
       fontFamily: {
         tangerine: "'Tangerine', cursive",
         lora: "'lora', serif",
