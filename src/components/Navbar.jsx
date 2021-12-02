@@ -15,6 +15,9 @@ function Navbar() {
               <Link to="/" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Accueil</Link>
       </Zoom>
       <Zoom>
+              <Link to="/qui-sommes-nous" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Qui sommes nous ?</Link>
+      </Zoom>
+      <Zoom>
               <Link to="/formations" className="mr-5 text-gray-900 hover:text-blue-900 hover:underline hover:transition duration-500">Nos Formations</Link>
 
       </Zoom>

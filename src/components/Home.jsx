@@ -14,8 +14,8 @@ import Zoom from 'react-reveal/Fade';
 function Home() {
     return (
         <>
-        <section className=" bg-banner bg-no-repeat bg-cover bg-blend-overlay bg-center h-110">
-  <div className="h-110 px-10 mx-auto flex py-10 md:flex-row flex-col items-center bg-gray-900 opacity-70">
+        <section className=" bg-banner bg-no-repeat bg-cover bg-center h-120">
+  <div className="h-120 px-10 mx-auto flex py-10 md:flex-row flex-col items-center bg-gray-900 opacity-70">
     <div className="lg:flex-grow w-1/2 md:w-3/5 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 className="sm:text-5xl mb-4 font-bold font-lora text-white">
         <Fade left>
@@ -49,13 +49,14 @@ massages,<br /> pour un public masculin et féminin, maquillage et bien d’autr
       <div className="order-1 w-full px-3 lg:w-1/2 lg:order-0">
         <div className="w-full lg:max-w-md">
           <h2 className="mb-4 text-3xl font-bold leading-tight tracking-tight sm:text-4xl font-heading text-gray-900">Qui somme nous ?</h2>
-          <p className="mb-4 font-medium tracking-tight text-gray-900 xl:mb-6">Professionnelle de renommée internationale des métiers de l’esthétique, Mme CHIRARA Karina, après avoir 
-obtenu avec brio son diplôme professionnel d’esthétique en France, y a démarré son activité. Celle-ci a acquis 
-auprès de centres internationaux, notamment dans la région de Messine, puis au Grand-duché de Luxembourg 
-une expérience qu’elle met depuis belle lurette à la disposition de sa clientèle et de son équipe hautement 
-qualifiée et dotée d’une technicité d’excellence qui satisferont vos besoins selon le concept : « Des 
-compétences au service d’une éthique ».</p>
-          <ul>
+          <p className="mb-4 font-normal tracking-tight text-gray-900 xl:mb-6">Professionnelle de renommée internationale des métiers de l’esthétique,
+ Mme CHIRARA Karina, Titulaire d’un CAP et d’un BP ESTHETIQUE-COSMETIQUE de l’école de VICHY,
+ Riche de 25 années d’expériences,  en tant qu’esthéticienne spécialisée en audit d’institut et en tant que formatrice aux métiers de la beauté, aujourd’hui elle souhaite transmettre son savoir , sa passion et apporter son expertise aux professionnels de notre noble métier.
+Ayant déjà eu l'occasion de gérer de ré organisé plusieurs instituts et spa, , notamment dans la région de la Lorraine en France , puis au Grand-duché de Luxembourg , du Bénin , de Dakar…..
+Une expérience qu’elle met à la disposition de sa clientèle et de son équipe hautement qualifiée et dotée d’une technicité d’excellence qui satisferont vos besoins selon le concept
+« Des compétences au service d’une éthique ».
+</p>
+     <ul>
             <li className="flex items-center py-2 space-x-4 xl:py-3">
             <svg className="w-8 h-8 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
@@ -87,9 +88,10 @@ compétences au service d’une éthique ».</p>
               <span className="font-medium text-gray-800">Entrainement sur des modèles réels</span>
             </li>
           </ul>
+          <Link to="/qui-sommes-nous" className="inline-flex text-white bg-indigo-900 border-0 py-2 px-6 focus:outline-none transition  hover:bg-pink-800 rounded text-lg font-lora">EN SAVOIR PLUS</Link>
         </div>
       </div>
-      <div className="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0"><img className="mx-auto sm:max-w-sm lg:max-w-full rounded-lg object-cover" src="team1.jpeg" alt="featureimage" /></div>
+      <div className="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0"><img className="mx-auto sm:max-w-sm lg:max-w-full rounded-lg object-cover" src="team3.jpeg" alt="featureimage" /></div>
     </div>
   </div>
 </section>

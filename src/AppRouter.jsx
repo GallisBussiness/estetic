@@ -6,6 +6,7 @@ import Home from './components/Home'
 import Services from './components/Services'
 // import ServiceDetails from './components/FormationDetails'
 import Contact from './components/Contact'
+import Quisommenous from './components/Quisommenous'
 
 function AppRouter() {
     const {pathname} = useLocation()
@@ -21,6 +22,7 @@ function AppRouter() {
       <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/formations" element={<Formations />} />
+      <Route path="/qui-sommes-nous" element={<Quisommenous />} />
       <Route path="/services" element={<Services />} />
       <Route path="/contact" element={<Contact />} />
       {/* <Route path="/formations/:id" element={<FormationDetails />} />

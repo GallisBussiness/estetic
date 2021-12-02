@@ -8,17 +8,22 @@ function Footer() {
     <div className="max-w-screen-xl px-4 py-12 mx-auto space-y-8 overflow-hidden sm:px-6 lg:px-8">
         <nav className="flex flex-wrap justify-center -mx-5 -my-2">
             <div className="px-5 py-2">
-                <Link to="/" className="text-base leading-6 text-pink-700 hover:text-gray-900">
+                <Link to="/" className="text-base leading-6 text-white hover:text-gray-900">
                     About
                 </Link>
             </div>
             <div className="px-5 py-2">
-                <Link to="/formations" className="text-base leading-6 text-pink-700 hover:text-gray-900">
+                <Link to="/qui-sommes-nous" className="text-base leading-6 text-white hover:text-gray-900">
+                    Qui sommes nous ?
+                </Link>
+            </div>
+            <div className="px-5 py-2">
+                <Link to="/formations" className="text-base leading-6 text-white hover:text-gray-900">
                     Formations
                 </Link>
             </div>
             <div className="px-5 py-2">
-                <Link to="/contact" className="text-base leading-6 text-pink-700 hover:text-gray-900">
+                <Link to="/contact" className="text-base leading-6 text-white hover:text-gray-900">
                     Contact
                 </Link>
             </div>

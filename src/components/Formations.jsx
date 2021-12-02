@@ -1,4 +1,6 @@
 import React from 'react'
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { Carousel } from 'react-responsive-carousel';
 // import FormationsTab from './FormationsTab'
 
 function Formations() {
@@ -15,13 +17,41 @@ function Formations() {
     <div className="flex flex-wrap items-center sm:-mx-3">
       <div className="w-full md:w-1/2 md:px-3">
         <div className="w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0">
-          <p className="mx-auto text-base text-gray-800 sm:max-w-md lg:text-xl md:max-w-3xl">Théorie et pratique des techniques d’esthétique / six modules décrits ci-dessous.
+          <p className="mx-auto text-lg text-gray-800 sm:max-w-md lg:text-2xl md:max-w-3xl">Théorie et pratique des techniques d’esthétique / six modules décrits ci-dessous.
  Après remise des Protocoles de cours</p>
         </div>
       </div>
       <div className="w-full md:w-1/2">
         <div className="w-full h-auto overflow-hidden rounded-md shadow-xl sm:rounded-xl">
-            <img src="image1.jpeg" alt="team" />
+        <Carousel autoPlay infiniteLoop showArrows={false} showIndicators={false} showThumbs={false} showStatus={false}>
+                <div>
+                    <img src="diapo1.jpeg" className="w-full h-110 object-cover rounded-lg" alt="diapo1" />
+                </div>
+                <div>
+                    <img src="image1.jpeg" className="w-full h-110 object-cover rounded-lg" alt="image1" />
+                </div>
+                <div >
+                    <img src="image2.jpeg" className="w-full h-110 object-cover rounded-lg" alt="image2" />
+                </div>
+                <div>
+                    <img src="image3.jpeg" className="w-full h-110 object-cover rounded-lg" alt="image3" />
+                </div>
+                <div>
+                    <img src="image4.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="image4"/>
+                </div>
+                <div>
+                    <img src="diapo2.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="diapo2"/>
+                </div>
+                <div>
+                    <img src="diapo3.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="diapo3"/>
+                </div>
+                <div>
+                    <img src="diapo4.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="diapo4"/>
+                </div>
+                <div>
+                    <img src="diapo5.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="diapo5"/>
+                </div>
+            </Carousel>
           </div>
       </div>
     </div>
