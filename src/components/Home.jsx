@@ -17,14 +17,14 @@ function Home() {
         <section className=" bg-banner bg-no-repeat bg-cover bg-center h-120">
   <div className="h-120 px-10 mx-auto flex py-10 md:flex-row flex-col items-center bg-gray-900 opacity-70">
     <div className="lg:flex-grow w-1/2 md:w-3/5 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-      <h1 className="sm:text-5xl mb-4 font-bold font-lora text-white">
+      <h1 className="text-2xl md:text-4xl mb-4 font-bold font-lora text-white">
         <Fade left>
             Bienvenue chez Kari's beauty center
         </Fade>
         </h1>
       
       <Fade left cascade>
-        <p className="mb-8 leading-relaxed font-lora text-lg font-bold text-white text-justify">
+        <p className="hidden md:block mb-8 leading-relaxed font-lora text-sm md:text-lg font-bold text-white text-justify">
             CK ESTHETIK se veut un centre d’excellence au service de sa clientèle, c’est dans cette optique qu’il vous
 propose <br /> une gamme très variée de soins du corps et visage ainsi que des soins des mains et des pieds, des
 massages,<br /> pour un public masculin et féminin, maquillage et bien d’autres prestations.
@@ -88,6 +88,7 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
               <span className="font-medium text-gray-800">Entrainement sur des modèles réels</span>
             </li>
           </ul>
+          <br />
           <Link to="/qui-sommes-nous" className="inline-flex text-white bg-indigo-900 border-0 py-2 px-6 focus:outline-none transition  hover:bg-pink-800 rounded text-lg font-lora">EN SAVOIR PLUS</Link>
         </div>
       </div>
