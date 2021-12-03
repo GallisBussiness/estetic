@@ -32,7 +32,7 @@ massages,<br /> pour un public masculin et féminin, maquillage et bien d’autr
       </Fade>  
 
       <div className="flex justify-center">
-        <Link to="/formations" className="inline-flex text-white bg-indigo-900 border-0 py-2 px-6 focus:outline-none transition  hover:bg-pink-800 rounded text-lg font-lora">DECOUVRIR NOS FORMATIONS</Link>
+        <Link to="/formations" className="inline-flex text-white bg-indigo-900 border-0 py-2 px-6 focus:outline-none transition  hover:bg-blue-800 rounded text-lg font-lora">DECOUVRIR NOS FORMATIONS</Link>
       </div>
     </div>
     <div style={{clipPath: "polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%)"}} className="bg-white w-1/2 md:w-3/5 lg:w-1/5 flex items-center justify-end">
@@ -58,38 +58,38 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
 </p>
      <ul>
             <li className="flex items-center py-2 space-x-4 xl:py-3">
-            <svg className="w-8 h-8 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <svg className="w-8 h-8 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
                 </svg>
               <span className="font-medium text-gray-800">Une large gamme de services estetics </span>
             </li>
             <li className="flex items-center py-2 space-x-4 xl:py-3">
-            <svg className="w-8 h-8 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <svg className="w-8 h-8 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
                 </svg>
               <span className="font-medium text-gray-800">Des formations Professionnelles et techniques de beauté</span>
             </li>
             <li className="flex items-center py-2 space-x-4 xl:py-3">
-              <svg className="w-8 h-8 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <svg className="w-8 h-8 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
                 </svg>
               <span className="font-medium text-gray-800">Accompagement pour la creation d'un institue de beauté</span>
             </li>
             <li className="flex items-center py-2 space-x-4 xl:py-3">
-              <svg className="w-8 h-8 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <svg className="w-8 h-8 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
                 </svg>
               <span className="font-medium text-gray-800">Possibilité de stage en entreprise</span>
             </li>
             <li className="flex items-center py-2 space-x-4 xl:py-3">
-              <svg className="w-8 h-8 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <svg className="w-8 h-8 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
                 </svg>
               <span className="font-medium text-gray-800">Entrainement sur des modèles réels</span>
             </li>
           </ul>
           <br />
-          <Link to="/qui-sommes-nous" className="inline-flex text-white bg-indigo-900 border-0 py-2 px-6 focus:outline-none transition  hover:bg-pink-800 rounded text-lg font-lora">EN SAVOIR PLUS</Link>
+          <Link to="/qui-sommes-nous" className="inline-flex text-white bg-indigo-900 border-0 py-2 px-6 focus:outline-none transition  hover:bg-blue-800 rounded text-lg font-lora">EN SAVOIR PLUS</Link>
         </div>
       </div>
       <div className="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0"><img className="mx-auto sm:max-w-sm lg:max-w-full rounded-lg object-cover" src="team3.jpeg" alt="featureimage" /></div>
@@ -99,10 +99,10 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
  <section className="my-3 font-lora container mx-auto mx-15">
 <Carousel autoPlay infiniteLoop showArrows={false} showIndicators={false} showThumbs={false} showStatus={false}>
                 <div className="mx-auto w-4/5">
-                    <img src="image1.jpeg" className="w-full h-110 object-cover rounded-lg" />
+                    <img src="diapo6.jpeg" className="w-full h-110 object-cover rounded-lg" />
                 </div>
                 <div className="mx-auto w-4/5">
-                    <img src="image2.jpeg" className="w-full h-110 object-cover rounded-lg" />
+                    <img src="diapo7.jpeg" className="w-full h-110 object-cover rounded-lg" />
                 </div>
                 <div className="mx-auto w-4/5">
                     <img src="image3.jpeg" className="w-full h-110 object-cover rounded-lg" />
@@ -113,7 +113,7 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
             </Carousel>
 </section> 
 {/* <section className="container mx-auto px-10 my-4">
-  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-pink-700 to-blue-700 rounded-lg text-white">Top Formations</h1>
+  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-blue-700 to-blue-700 rounded-lg text-white">Top Formations</h1>
   <div className="grid grid-cols-12 gap-3">
    
       {json.data.formations.slice(0,4).map((data,index) => (
@@ -126,13 +126,13 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
   
 <div className="flex items-center justify-end">
  <Link to="/formations">
- <Button className="font-lora" rightIcon={<ArrowCircleRightIcon className="h-6 w-6"/>} colorScheme="pink" >voir toutes les formations offertes</Button>
+ <Button className="font-lora" rightIcon={<ArrowCircleRightIcon className="h-6 w-6"/>} colorScheme="blue" >voir toutes les formations offertes</Button>
  </Link>
 </div>
 </section> */}
 
 {/* <section className="container mx-auto px-10 my-10">
-  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-blue-700 to-pink-700 rounded-lg text-white">Top Services</h1>
+  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-blue-700 to-blue-700 rounded-lg text-white">Top Services</h1>
   <div className="grid grid-cols-12 gap-3">
    
       {json.data.formations.slice(0,4).map((data,index) => (
