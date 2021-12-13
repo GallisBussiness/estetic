@@ -9,7 +9,7 @@ function Formations() {
 <section className="px-2 py-15 bg-white md:px-0 font-lora">
   <div className="container items-center max-w-6xl px-8 mx-auto xl:px-5">
     <div className="px-5 py-10 mx-auto">
-       <h1 className="text-5xl text-blue-600 my-3">Duree 7 mois</h1>
+       <h1 className="text-5xl text-gray-600 my-3">Duree 7 mois</h1>
   <h1 className="text-3xl font-extrabold tracking-tight text-gray-900">
             2 jours par mois mardi-jeudi de 9H00 à13H00-14H00-17H00
           </h1>
@@ -68,7 +68,7 @@ function Formations() {
             <h2 className="box-border mb-4 text-3xl font-semibold leading-tight tracking-tight text-black border-solid sm:text-4xl md:text-5xl">
             PLAN DE FORMATION SESSION EXCELLENCE
             </h2>
-            <h2 className="box-border mb-4 text-3xl font-semibold leading-tight tracking-tight text-blue-800 border-solid sm:text-4xl md:text-3xl">
+            <h2 className="box-border mb-4 text-3xl font-semibold leading-tight tracking-tight text-gray-800 border-solid sm:text-4xl md:text-3xl">
             Choisissez (une ou plusieurs modules) ou faire la (formation complète) 
             </h2>
         </div>
@@ -88,50 +88,50 @@ function Formations() {
                 </div>
                 <ul className="flex-1 p-0 mt-4 ml-5 leading-7 text-gray-900 border-0 border-gray-200">
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Matériel utilisé
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Théorie
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Règles d’hygiène
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Epilation jambes complètes et bras
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Epilation aisselles et maillot
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Epilation visage
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Pratique sur modèles réels
                     </li>
                 </ul>
             </div>
-            <div className="relative z-20 flex flex-col items-center max-w-md p-4 mx-auto my-0 bg-white border-4 border-blue-500 border-solid rounded-lg sm:p-6 md:px-8 md:py-10">
+            <div className="relative z-20 flex flex-col items-center max-w-md p-4 mx-auto my-0 bg-white border-4 border-gray-500 border-solid rounded-lg sm:p-6 md:px-8 md:py-10">
             <img src="diapo1.jpeg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
                 <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
                 SOINS DU VISAGE
@@ -146,43 +146,43 @@ function Formations() {
                 </div>
                 <ul className="flex-1 p-0 mt-4 leading-7 text-gray-900 border-0 border-gray-200">
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Matériel utilisé
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Règles d’hygiène
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Anatomie de la peau /cosmétologie
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Déroulement d’un soin
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Les différents  gestes technique
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Différents types de peau (Peau déshydratée,Peau grasse,Peau sensible,Peau mature,Peau mixte)
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Pratique sur modèles réels
@@ -204,55 +204,55 @@ function Formations() {
                 </div>
                 <ul className="flex-1 p-0 mt-4 leading-7 text-gray-900 border-0 border-gray-200">
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Matériel utilisé
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Règles d’hygiène
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Déroulement d’un soin corps
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Gommage corps
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Enveloppement
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Massage
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Soins jambes lourdes
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Soin du buste/Dos
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Pratique sur modèles réels
@@ -279,56 +279,56 @@ function Formations() {
                 </div>
                 <ul className="flex-1 p-0 mt-4 ml-5 leading-7 text-gray-900 border-0 border-gray-200">
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Matériel utilisé
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Règles d’hygiène
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                          Les ongles : nature et maladies
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                          Le déroulement d’une manucure
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Le déroulement d’une pédicure
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Pose vernis + pose vernis permanent
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Dépose vernis permanent
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Pratique sur modèles réels   manucure pédicure
                     </li>
                 </ul>
             </div>
-            <div className="relative z-20 flex flex-col items-center max-w-md p-4 mx-auto my-0 bg-white border-4 border-blue-500 border-solid rounded-lg sm:p-6 md:px-8 md:py-10">
+            <div className="relative z-20 flex flex-col items-center max-w-md p-4 mx-auto my-0 bg-white border-4 border-gray-500 border-solid rounded-lg sm:p-6 md:px-8 md:py-10">
             <img src="diapo1.jpeg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
                 <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
                 ONGLERIE
@@ -343,49 +343,49 @@ function Formations() {
                 </div>
                 <ul className="flex-1 p-0 mt-4 leading-7 text-gray-900 border-0 border-gray-200">
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Matériel utilisé
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Règles d’hygiène
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Pose capsule + limage
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Application du gel
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         les différentes French
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Décoration d’ongle
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Pose chablon
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Finition
@@ -407,37 +407,37 @@ function Formations() {
                 </div>
                 <ul className="flex-1 p-0 mt-4 leading-7 text-gray-900 border-0 border-gray-200">
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Connaissances et hygiène des produits et outils de maquillage
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Morphologie d’un visage
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Colorimétrie
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Déroulement d’un maquillage
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Les différentes techniques de maquillage :Jour /Cocktail/Soir/Mariée
                     </li>
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Pratique sur modèles réels
@@ -463,43 +463,43 @@ function Formations() {
                 </div>
                 <ul className="flex-1 p-0 mt-4 ml-5 leading-7 text-gray-900 border-0 border-gray-200">
                     <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Tenue
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Prise de rendez-vous 
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Accueil Client
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Prise en charge de la cliente 
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Fiche cliente
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Vente additionnelle
                     </li>
                     <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
-                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-blue-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
                         </svg>
                         Pratique en situation réelle
@@ -510,18 +510,18 @@ function Formations() {
 </section>
 
 <div className="container px-20 py-10 mx-auto font-lora bg-white">
-       <h1 className="text-2xl font-bold text-blue-600 my-3">Tarif</h1>
+       <h1 className="text-2xl font-bold text-gray-600 my-3">Tarif</h1>
   <h1 className="text-lg font-normal tracking-tight text-gray-900">
-  Formation Complète :		<span className="text-blue-700 font-bold"> 2.800.000 FCFA</span>
+  Formation Complète :		<span className="text-gray-700 font-bold"> 2.800.000 FCFA</span>
           </h1>
           <h1 className="text-lg font-normal tracking-tight text-gray-900">
-          Frais de dossier : <span className="text-blue-700 font-bold">100.000 FCFA</span>
+          Frais de dossier : <span className="text-gray-700 font-bold">100.000 FCFA</span>
           </h1>
           <h1 className="text-lg font-normal tracking-tight text-gray-900">
           Kit : la liste est transmise au moment de l’inscription et commandée par nos soins.
           </h1>
           <h1 className="text-lg font-normal tracking-tight text-gray-900">
-          Acompte de <span className="text-blue-700 font-bold">50% </span> à l’inscription :   <span className="text-blue-700 font-bold">1.450.000 FCFA</span>
+          Acompte de <span className="text-gray-700 font-bold">50% </span> à l’inscription :   <span className="text-gray-700 font-bold">1.450.000 FCFA</span>
           </h1>
           <h1 className="text-lg font-normal tracking-tight text-gray-900">
           Le solde peut être réglé par mensualités  le 1er de chaque mois.
