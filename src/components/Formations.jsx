@@ -1,62 +1,10 @@
 import React from 'react'
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { Carousel } from 'react-responsive-carousel';
 // import FormationsTab from './FormationsTab'
 
 function Formations() {
     return (
         <>
-<section className="px-2 py-15 bg-white md:px-0 font-lora">
-  <div className="container items-center max-w-6xl px-8 mx-auto xl:px-5">
-    <div className="px-5 py-10 mx-auto">
-       <h1 className="text-5xl text-gray-600 my-3">Duree 7 mois</h1>
-  <h1 className="text-3xl font-extrabold tracking-tight text-gray-900">
-            2 jours par mois mardi-jeudi de 9H00 à13H00-14H00-17H00
-          </h1>
-    </div>
-    <div className="flex flex-wrap items-center sm:-mx-3">
-      <div className="w-full md:w-1/2 md:px-3">
-        <div className="w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0">
-          <p className="mx-auto text-lg text-gray-800 sm:max-w-md lg:text-2xl md:max-w-3xl">Théorie et pratique des techniques d’esthétique / six modules décrits ci-dessous.
- Après remise des Protocoles de cours</p>
-        </div>
-      </div>
-      <div className="w-full md:w-1/2">
-        <div className="w-full h-auto overflow-hidden rounded-md shadow-xl sm:rounded-xl">
-        <Carousel autoPlay infiniteLoop showArrows={false} showIndicators={false} showThumbs={false} showStatus={false}>
-                <div>
-                    <img src="diapo1.jpeg" className="w-full h-110 object-cover rounded-lg" alt="diapo1" />
-                </div>
-                <div>
-                    <img src="image1.jpeg" className="w-full h-110 object-cover rounded-lg" alt="image1" />
-                </div>
-                <div >
-                    <img src="image2.jpeg" className="w-full h-110 object-cover rounded-lg" alt="image2" />
-                </div>
-                <div>
-                    <img src="image3.jpeg" className="w-full h-110 object-cover rounded-lg" alt="image3" />
-                </div>
-                <div>
-                    <img src="image4.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="image4"/>
-                </div>
-                <div>
-                    <img src="diapo2.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="diapo2"/>
-                </div>
-                <div>
-                    <img src="diapo3.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="diapo3"/>
-                </div>
-                <div>
-                    <img src="diapo4.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="diapo4"/>
-                </div>
-                <div>
-                    <img src="diapo5.jpeg" className="w-full h-110 object-cover object-top rounded-lg" alt="diapo5"/>
-                </div>
-            </Carousel>
-          </div>
-      </div>
-    </div>
-  </div>
-</section>
 {/* 
            <div className="container mx-auto px-10 font-lora">
              <FormationsTab />
@@ -69,13 +17,17 @@ function Formations() {
             PLAN DE FORMATION SESSION EXCELLENCE
             </h2>
             <h2 className="box-border mb-4 text-3xl font-semibold leading-tight tracking-tight text-gray-800 border-solid sm:text-4xl md:text-3xl">
-            Choisissez (une ou plusieurs modules) ou faire la (formation complète) 
+            Choisissez un ou plusieurs modules ou la formation excéllence 
             </h2>
         </div>
-        <div className="grid grid-cols-1 gap-4 mt-4 leading-7 text-gray-900 border-0 border-gray-200 sm:mt-6 sm:gap-6 md:mt-8 md:gap-0 lg:grid-cols-3">
-            <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 border border-solid rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
-            <img src="diapo1.jpeg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
+        <div className="grid grid-cols-1 gap-4 mt-4 leading-7 text-gray-900 sm:mt-6 sm:gap-6 md:mt-8 md:gap-0 lg:grid-cols-3">
+            <div 
+            className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
+        
+            <img src="EPILATION.jpg" alt="epilation"
+             className="w-full h-48 rounded-lg object-cover mb-4" />
                 <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
+                FORMATION <br/>
                 EPILATIONS
                 </h3>
                 <div className="flex items-end mt-6 leading-7 text-gray-900 border-0 border-gray-200">
@@ -130,10 +82,14 @@ function Formations() {
                         Pratique sur modèles réels
                     </li>
                 </ul>
+                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
             </div>
-            <div className="relative z-20 flex flex-col items-center max-w-md p-4 mx-auto my-0 bg-white border-4 border-gray-500 border-solid rounded-lg sm:p-6 md:px-8 md:py-10">
-            <img src="diapo1.jpeg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
+            <div 
+             className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0  rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
+                
+            <img src="SV.jpg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
                 <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
+                FORMATION <br/>
                 SOINS DU VISAGE
                 </h3>
                 <div className="flex items-end mt-6 leading-7 text-gray-900 border-0 border-gray-200">
@@ -188,10 +144,13 @@ function Formations() {
                         Pratique sur modèles réels
                     </li>
                 </ul>
+                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
             </div>
-            <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 border border-solid rounded-lg lg:-ml-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
-            <img src="diapo1.jpeg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
+            <div 
+                       className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">                
+            <img src="massage.jpg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
                 <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
+                FORMATION <br/>
                 SOIN DU CORPS
                 </h3>
                 <div className="flex items-end mt-6 leading-7 text-gray-900 border-0 border-gray-200">
@@ -258,15 +217,19 @@ function Formations() {
                         Pratique sur modèles réels
                     </li>
                 </ul>
+                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+
             </div>
         </div>
     </div>
 </section>
 <section className="py-6 leading-7 text-gray-900 bg-white sm:py-6 md:py-6 lg:py-6 font-lora">
         <div className="grid grid-cols-1 gap-4 mt-4 leading-7 text-gray-900 border-0 border-gray-200 sm:mt-6 sm:gap-6 md:mt-8 md:gap-0 lg:grid-cols-3">
-            <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 border border-solid rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
-            <img src="diapo1.jpeg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
+            <div
+            className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">            
+            <img src="MANU-PEDI.jpg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
                 <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
+                FORMATION <br/>
                 MANUCURE PEDICURE
                 </h3>
                 <div className="flex items-end mt-6 leading-7 text-gray-900 border-0 border-gray-200">
@@ -327,10 +290,14 @@ function Formations() {
                         Pratique sur modèles réels   manucure pédicure
                     </li>
                 </ul>
+                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+
             </div>
-            <div className="relative z-20 flex flex-col items-center max-w-md p-4 mx-auto my-0 bg-white border-4 border-gray-500 border-solid rounded-lg sm:p-6 md:px-8 md:py-10">
-            <img src="diapo1.jpeg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
+            <div 
+                        className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
+            <img src="onglerie.jpg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
                 <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
+                FORMATION <br/>
                 ONGLERIE
                 </h3>
                 <div className="flex items-end mt-6 leading-7 text-gray-900 border-0 border-gray-200">
@@ -391,10 +358,14 @@ function Formations() {
                         Finition
                     </li>
                 </ul>
+                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+
             </div>
-            <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 border border-solid rounded-lg lg:-ml-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
-            <img src="diapo1.jpeg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
+            <div 
+                        className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
+            <img src="makup.jpg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
                 <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
+                FORMATION <br/>
                 MAQUILLAGE
                 </h3>
                 <div className="flex items-end mt-6 leading-7 text-gray-900 border-0 border-gray-200">
@@ -443,14 +414,17 @@ function Formations() {
                         Pratique sur modèles réels
                     </li>
                 </ul>
+                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+
             </div>
         </div>
 </section>
 <section className="py-6 leading-7 text-gray-900 bg-white sm:py-6 md:py-6 lg:py-6 font-lora">
-        <div className="grid grid-cols-1 gap-4 mt-4 leading-7 text-gray-900 border-0 border-gray-200 sm:mt-6 sm:gap-6 md:mt-8 md:gap-0 lg:grid-cols-3">
-            <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 border border-solid rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
-            <img src="diapo1.jpeg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
+        <div className="grid grid-cols-1 gap-4 mt-4 leading-7 text-gray-900  sm:mt-6 sm:gap-6 md:mt-8 md:gap-0 lg:grid-cols-3">
+            <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
+            <img src="vente.jpg" alt="epilation" className="w-full h-48 rounded-lg object-cover mb-4" />
                 <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
+                FORMATION <br/>
                 ACCUEIL –VENTE
                 </h3>
                 <div className="flex items-end mt-6 leading-7 text-gray-900 border-0 border-gray-200">
@@ -505,29 +479,70 @@ function Formations() {
                         Pratique en situation réelle
                     </li>
                 </ul>
+                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+
+            </div>
+            <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
+            <img src="formation_complete.png" alt="epilation" className="w-full h-48 rounded-lg object-cover object-center mb-4" />
+                <h3 className="m-0 text-2xl font-semibold leading-tight tracking-tight text-black border-0 border-gray-200 sm:text-3xl md:text-4xl">
+                FORMATION <br/>
+                EXCELLENCE
+                </h3>
+                <div className="flex items-end mt-6 leading-7 text-gray-900 border-0 border-gray-200">
+                    <p className="box-border m-0 text-6xl font-semibold leading-none border-solid">
+                        3.800.000
+                    </p>
+                    <p className="box-border m-0 border-solid" style={{borderImage: 'initial'}}>
+                        FCFA
+                    </p>
+                </div>
+                <ul className="flex-1 p-0 mt-4 ml-5 leading-7 text-gray-900 border-0 border-gray-200">
+                    <li className="inline-flex items-center w-full mb-2 ml-5 font-semibold text-left border-solid">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        FORMATION EPILATION
+                    </li>
+                    <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        FORMATION SOIN DU VISAGE
+                    </li>
+                    <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        FORMATION SOIN DU CORPS
+                    </li>
+                    <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        FORMATION MANUCURE PEDICURE
+                    </li>
+                    <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        FORMATION ONGLERIE
+                    </li>
+                    <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        FORMATION MAQUILLAGE
+                    </li>
+                    <li className="inline-flex items-center  w-full mb-2 ml-5 font-semibold text-left border-solid">
+                        <svg className="w-5 h-5 mr-2 font-semibold leading-7 text-gray-500 sm:h-5 sm:w-5 md:h-6 md:w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                        FORMATION ACHAT-VENTE
+                    </li>
+                </ul>
             </div>
         </div>
 </section>
-
-<div className="container px-20 py-10 mx-auto font-lora bg-white">
-       <h1 className="text-2xl font-bold text-gray-600 my-3">Tarif</h1>
-  <h1 className="text-lg font-normal tracking-tight text-gray-900">
-  Formation Complète :		<span className="text-gray-700 font-bold"> 2.800.000 FCFA</span>
-          </h1>
-          <h1 className="text-lg font-normal tracking-tight text-gray-900">
-          Frais de dossier : <span className="text-gray-700 font-bold">100.000 FCFA</span>
-          </h1>
-          <h1 className="text-lg font-normal tracking-tight text-gray-900">
-          Kit : la liste est transmise au moment de l’inscription et commandée par nos soins.
-          </h1>
-          <h1 className="text-lg font-normal tracking-tight text-gray-900">
-          Acompte de <span className="text-gray-700 font-bold">50% </span> à l’inscription :   <span className="text-gray-700 font-bold">1.450.000 FCFA</span>
-          </h1>
-          <h1 className="text-lg font-normal tracking-tight text-gray-900">
-          Le solde peut être réglé par mensualités  le 1er de chaque mois.
-          </h1>
-    </div>
-
         </>
     )
 }

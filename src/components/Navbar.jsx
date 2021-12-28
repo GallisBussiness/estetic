@@ -8,17 +8,20 @@ function Navbar() {
           <header className="bg-white z-10">
   <div className="container px-10 mx-auto flex flex-wrap flex-col md:flex-row items-center">
     <a href="/" className="flex font-medium items-center text-gray-900 mb-4 md:mb-0">
-     <img src="/logosansbg.png" alt="logo" className="w-28 h-28 object-cover" />
+     <img src="Logo_K.jpg" alt="logo" className="w-28 h-28 object-cover" />
     </a>
     <nav className="font-lora md:ml-auto md:mr-auto flex flex-wrap items-center text-lg font-semibold justify-center">
       <Zoom>
-              <Link to="/" className="mr-5 text-gray-900 hover:text-blue-900  duration-500">Accueil</Link>
+              <Link to="/" className="mr-5 text-gray-900 hover:text-blue-900  duration-500 uppercase">Accueil</Link>
       </Zoom>
       <Zoom>
-              <Link to="/qui-sommes-nous" className="mr-5 text-gray-900 hover:text-blue-900  duration-500">Qui sommes nous ?</Link>
       </Zoom>
       <Zoom>
-              <Link to="/formations" className="mr-5 text-gray-900 hover:text-blue-900  duration-500">Nos Formations</Link>
+              <Link to="/formations" className="mr-5 text-gray-900 hover:text-blue-900  duration-500 uppercase">Nos Formations</Link>
+
+      </Zoom>
+      <Zoom>
+              <Link to="/prestations" className="mr-5 text-gray-900 hover:text-blue-900  duration-500 uppercase">Nos Prestations</Link>
 
       </Zoom>
       {/* <Zoom>
@@ -30,7 +33,7 @@ function Navbar() {
 
       </Zoom> */}
       <Zoom>
-              <Link to="/contact" className="mr-5 text-gray-900 hover:text-blue-900  duration-500">Contact</Link>
+              <Link to="/contact" className="mr-5 text-gray-900 hover:text-blue-900  duration-500 uppercase">Contact</Link>
       </Zoom>
     </nav>
     <a href="tel:+221 33 832 89 64" className="mr-5 text-gray-900 hover:text-blue-900 text-lg font-normal font-lora">
