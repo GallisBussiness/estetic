@@ -1,5 +1,6 @@
 import React from 'react'
 import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { Link } from 'react-router-dom';
 // import FormationsTab from './FormationsTab'
 
 function Formations() {
@@ -82,7 +83,7 @@ function Formations() {
                         Pratique sur modèles réels
                     </li>
                 </ul>
-                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+                <Link to="/formations/epilation" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</Link>
             </div>
             <div 
              className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0  rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
@@ -144,7 +145,7 @@ function Formations() {
                         Pratique sur modèles réels
                     </li>
                 </ul>
-                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+                <Link to="/formations/soin-visage" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</Link>
             </div>
             <div 
                        className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">                
@@ -217,7 +218,7 @@ function Formations() {
                         Pratique sur modèles réels
                     </li>
                 </ul>
-                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+                <Link to="/formations/soin-corps" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</Link>
 
             </div>
         </div>
@@ -290,7 +291,7 @@ function Formations() {
                         Pratique sur modèles réels   manucure pédicure
                     </li>
                 </ul>
-                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+                <Link to="/formations/pedicure-manicure" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</Link>
 
             </div>
             <div 
@@ -358,7 +359,7 @@ function Formations() {
                         Finition
                     </li>
                 </ul>
-                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+                <Link to="/formations/onglerie" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</Link>
 
             </div>
             <div 
@@ -414,7 +415,7 @@ function Formations() {
                         Pratique sur modèles réels
                     </li>
                 </ul>
-                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
+                <Link to="/formations/maquillage" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</Link>
 
             </div>
         </div>
@@ -479,8 +480,6 @@ function Formations() {
                         Pratique en situation réelle
                     </li>
                 </ul>
-                <button className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Voir la fiche</button>
-
             </div>
             <div className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
             <img src="formation_complete.png" alt="epilation" className="w-full h-48 rounded-lg object-cover object-center mb-4" />

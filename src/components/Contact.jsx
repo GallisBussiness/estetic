@@ -17,7 +17,7 @@ function Contact() {
           <h2 className=" mt-20 font-semibold text-gray-900 tracking-widest text-lg">Réseau sociaux</h2>
           <p className="mt-1"><HStack>
   <Button colorScheme="facebook" leftIcon={<FaFacebook />}>
-    <a href="https://www.facebook.com/ck_esthetik">
+    <a href="https://www.facebook.com/institutbeautedakar">
        Facebook
     </a>
   </Button>

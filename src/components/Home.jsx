@@ -1,19 +1,14 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
-// import json from '../data.json'
-// import Formation from './Formation'
-// import { Button } from '@chakra-ui/button';
 // import { ArrowCircleRightIcon } from '@heroicons/react/solid';
  import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
-// import Team from './Team';
-// import Fade from 'react-reveal/Fade';
-// import Zoom from 'react-reveal/Fade';
+import { Link } from 'react-router-dom';
 
 function Home() {
     return (
         <>
-  <section className="text-white body-font font-lora bg-black">
+  <section className="text-white font-lora bg-black">
   <div className="container px-10 py-10 mx-auto flex flex-wrap justify-center">
     <div className="lg:w-2/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0 mb-8 mr-10 flex flex-col items-center justify-center">
     <img src="Logo_k.jpg" alt="centre de beauté" className="rounded-lg h-48 w-48 mb-4" />
@@ -36,7 +31,7 @@ AUX MÉTIERS DE LA BEAUTÉ</p>
   <div className="container items-center max-w-6xl px-4 mx-auto sm:px-20 md:px-32 lg:px-16">
   <div className="w-full">
   <h2 className="mb-4 text-3xl font-bold leading-tight tracking-tight sm:text-4xl font-heading text-gray-900">Qui somme nous ?</h2>
-     <div className="flex items-center justify-between">
+     <div className="flex flex-col md:flex-row items-center justify-between">
      <img src="carina.jpeg" alt="centre de beauté" className="rounded-lg h-72 w-72 mb-4 object-contain mx-6" />
      <p className="mb-4 font-normal tracking-tight text-gray-900 xl:mb-6">
             Professionnelle de renommée internationale des métiers de l’esthétique,
@@ -87,6 +82,62 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
           </ul>        </div>
   </div>
 </section>
+<section className="my-3 font-lora container mx-auto mx-15">
+ <div className="flex flex-col md:flex-row items-center justify-center">
+   <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
+     <hr className="w-10 h-1 bg-white" />
+      <h1 className="text-2xl font-bold">SOINS VISAGES</h1>
+      <Link to="/prestations?q=soin-visage" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+   </div>
+   <div className="bg-gray-500 h-60 w-60">
+     <img src="soin_visage.webp" alt="soin visage" className="h-full w-full rounded-full object-cover" />
+   </div>
+   <div className="bg-gray-200 space-y-3 text-black font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
+     <hr className="w-10 h-1 bg-black" />
+      <h1 className="text-2xl font-bold">SOINS CORPS <br/> MASSAGES</h1>
+      <Link to="/prestations?q=soin-corps" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+   </div>
+   <div className="bg-white h-60 w-60">
+     <img src="massage.jpg" alt="massage" className="h-full w-full rounded-full object-cover" />
+   </div>
+ </div>
+ <div className="flex flex-col md:flex-row items-center justify-center">
+ <div className="bg-white h-60 w-60">
+     <img src="makup.jpg" alt="make-up" className="h-full w-full rounded-full object-cover" />
+   </div>
+ <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
+     <hr className="w-10 h-1 bg-white" />
+      <h1 className="text-2xl font-bold">MAQUILLAGE</h1>
+      <Link to="/prestations" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+   </div>
+   <div className="bg-white h-60 w-60">
+     <img src="rituel.jpg" alt="rituel" className="h-full w-full rounded-full object-cover" />
+   </div>
+   <div className="bg-gray-200 space-y-3 text-black font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
+     <hr className="w-10 h-1 bg-black" />
+      <h1 className="text-2xl font-bold">RITUELS</h1>
+      <Link to="/prestations" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+   </div>
+ </div>
+ <div className="flex flex-col md:flex-row items-center justify-center">
+ <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
+     <hr className="w-10 h-1 bg-white" />
+      <h1 className="text-2xl font-bold">EPILATIONS</h1>
+      <Link to="/" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+   </div>
+   <div className="bg-white h-60 w-60">
+     <img src="EPILATION.jpg" alt="epilation" className="h-full w-full rounded-full object-cover" />
+   </div>
+   <div className="bg-gray-200 space-y-3 text-black font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
+     <hr className="w-10 h-1 bg-black" />
+      <h1 className="text-2xl font-bold">SOINS MAINS ET <br/> PIEDS</h1>
+      <Link to="/" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+   </div>
+   <div className="bg-white h-60 w-60">
+     <img src="onglerie.jpg" alt="pedicure manicure" className="h-full w-full rounded-full object-cover" />
+   </div>
+ </div>
+</section>
  <section className="my-3 font-lora container mx-auto mx-15">
 <Carousel autoPlay infiniteLoop showArrows={false} showIndicators={false} showThumbs={false} showStatus={false}>
                 <div className="mx-auto w-4/5">
@@ -106,41 +157,6 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
                 </div>
             </Carousel>
 </section> 
-{/* <section className="container mx-auto px-10 my-4">
-  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-blue-700 to-blue-700 rounded-lg text-white">Top Formations</h1>
-  <div className="grid grid-cols-12 gap-3">
-   
-      {json.data.formations.slice(0,4).map((data,index) => (
-         <div key={index} className="col-span-12 md:col-span-3">
-    <Formation formation={data} />
-    </div>
-  ))}
-    
-  </div>
-  
-<div className="flex items-center justify-end">
- <Link to="/formations">
- <Button className="font-lora" rightIcon={<ArrowCircleRightIcon className="h-6 w-6"/>} colorScheme="blue" >voir toutes les formations offertes</Button>
- </Link>
-</div>
-</section> */}
-
-{/* <section className="container mx-auto px-10 my-10">
-  <h1 className="text-3xl font-bold font-lora my-2 text-center uppercase shadow-lg p-2 bg-gradient-to-r from-blue-700 to-blue-700 rounded-lg text-white">Top Services</h1>
-  <div className="grid grid-cols-12 gap-3">
-   
-      {json.data.formations.slice(0,4).map((data,index) => (
-         <div key={index} className="col-span-12 md:col-span-3">
-        <Formation formation={data} />
-    </div>
-  ))}
-    
-  </div>
-<div className="flex items-center justify-end">
- <Button className="font-lora" rightIcon={<ArrowCircleRightIcon className="h-6 w-6"/>} colorScheme="blue" >voir toutes les services offertes</Button>
-</div>
-</section> */}
-{/* <Team /> */}
         </>
     )
 }
