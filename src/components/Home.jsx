@@ -1,9 +1,9 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
-// import { ArrowCircleRightIcon } from '@heroicons/react/solid';
  import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 import { Link } from 'react-router-dom';
+import  Zoom  from 'react-reveal/Zoom';
 
 function Home() {
     return (
@@ -32,7 +32,10 @@ AUX MÉTIERS DE LA BEAUTÉ</p>
   <div className="w-full">
   <h2 className="mb-4 text-3xl font-bold leading-tight tracking-tight sm:text-4xl font-heading text-gray-900">Qui somme nous ?</h2>
      <div className="flex flex-col md:flex-row items-center justify-between">
-     <img src="carina.jpeg" alt="centre de beauté" className="rounded-lg h-72 w-72 mb-4 object-contain mx-6" />
+      <Zoom>
+        <img src="carina.jpeg" alt="centre de beauté" className="rounded-lg h-72 w-72 mb-4 object-contain mx-6" />
+      </Zoom>
+     
      <p className="mb-4 font-normal tracking-tight text-gray-900 xl:mb-6">
             Professionnelle de renommée internationale des métiers de l’esthétique,
  Mme CHIRARA Karina, Titulaire d’un CAP et d’un BP ESTHETIQUE-COSMETIQUE de l’école de VICHY,
@@ -108,7 +111,7 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
  <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
      <hr className="w-10 h-1 bg-white" />
       <h1 className="text-2xl font-bold">MAQUILLAGE</h1>
-      <Link to="/prestations" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+      <Link to="/prestations?q=maquillage" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
    </div>
    <div className="bg-white h-60 w-60">
      <img src="rituel.jpg" alt="rituel" className="h-full w-full rounded-full object-cover" />
@@ -116,14 +119,14 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
    <div className="bg-gray-200 space-y-3 text-black font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
      <hr className="w-10 h-1 bg-black" />
       <h1 className="text-2xl font-bold">RITUELS</h1>
-      <Link to="/prestations" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+      <Link to="/prestations?q=rituel" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
    </div>
  </div>
  <div className="flex flex-col md:flex-row items-center justify-center">
  <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
      <hr className="w-10 h-1 bg-white" />
       <h1 className="text-2xl font-bold">EPILATIONS</h1>
-      <Link to="/" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+      <Link to="/prestations?q=epilation" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
    </div>
    <div className="bg-white h-60 w-60">
      <img src="EPILATION.jpg" alt="epilation" className="h-full w-full rounded-full object-cover" />
@@ -131,7 +134,7 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
    <div className="bg-gray-200 space-y-3 text-black font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
      <hr className="w-10 h-1 bg-black" />
       <h1 className="text-2xl font-bold">SOINS MAINS ET <br/> PIEDS</h1>
-      <Link to="/" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
+      <Link to="/prestations?q=pedicure-manicure" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
    </div>
    <div className="bg-white h-60 w-60">
      <img src="onglerie.jpg" alt="pedicure manicure" className="h-full w-full rounded-full object-cover" />
