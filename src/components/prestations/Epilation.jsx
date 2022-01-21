@@ -14,7 +14,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 15 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   3 000 F CFA
                   </div>
                 </div>
@@ -30,7 +30,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 15 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   3 000 F CFA
                   </div>
                 </div>
@@ -46,7 +46,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 15 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   5 000 F CFA
                   </div>
                 </div>
@@ -62,7 +62,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 15 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   3 000 F CFA
                   </div>
                 </div>
@@ -78,7 +78,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 15 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   10 000 F CFA
                   </div>
                 </div>
@@ -94,7 +94,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 30 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   5 000 F CFA
                   </div>
                 </div>
@@ -110,7 +110,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 30 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   5 000 F CFA
                   </div>
                 </div>
@@ -126,7 +126,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 15 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   10 000 F CFA
                   </div>
                 </div>
@@ -142,7 +142,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h 30 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   100 000 F CFA
                   </div>
                 </div>
@@ -158,7 +158,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   70 000 F CFA
                   </div>
                 </div>
@@ -174,7 +174,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 15 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   6 000 F CFA
                   </div>
                 </div>
@@ -190,7 +190,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 15 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   6 000 F CFA
                   </div>
                 </div>
@@ -206,7 +206,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   8 000 F CFA
                   </div>
                 </div>
@@ -222,7 +222,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   14 000 F CFA
                   </div>
                 </div>
@@ -238,7 +238,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 30 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   12 000 F CFA
                   </div>
                 </div>
@@ -254,7 +254,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 45 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   15 000 F CFA
                   </div>
                 </div>
@@ -270,7 +270,7 @@ function Epilation() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   1 F CFA
                   </div>
                 </div>

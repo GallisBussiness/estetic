@@ -14,7 +14,7 @@ function RituelMinceur() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -30,7 +30,7 @@ function RituelMinceur() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -46,7 +46,7 @@ function RituelMinceur() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   15 000 F CFA
                   </div>
                 </div>

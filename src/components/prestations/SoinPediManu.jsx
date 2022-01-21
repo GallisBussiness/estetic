@@ -15,8 +15,8 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
-                  60 000 F CFA
+                  <div className="text-2xl text-gray-600 font-bold">
+                  6 000 F CFA
                   </div>
                 </div>
                  </div>
@@ -31,7 +31,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   12 000 F CFA
                   </div>
                 </div>
@@ -47,7 +47,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   15 000 F CFA
                   </div>
                 </div>
@@ -63,7 +63,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   20 000 F CFA
                   </div>
                 </div>
@@ -79,7 +79,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   30 000 F CFA
                   </div>
                 </div>
@@ -95,7 +95,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -111,7 +111,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   20 000 F CFA
                   </div>
                 </div>
@@ -127,7 +127,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -143,7 +143,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -159,7 +159,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   15 000 F CFA
                   </div>
                 </div>
@@ -176,7 +176,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   500 F CFA
                   </div>
                 </div>
@@ -192,7 +192,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   500 F CFA
                   </div>
                 </div>
@@ -208,7 +208,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   3000 F CFA
                   </div>
                 </div>
@@ -224,7 +224,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   3000 F CFA
                   </div>
                 </div>
@@ -240,7 +240,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   8000 F CFA
                   </div>
                 </div>
@@ -257,7 +257,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   6000 F CFA
                   </div>
                 </div>
@@ -273,7 +273,7 @@ function SoinPediManu() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   15 000 F CFA
                   </div>
                 </div>

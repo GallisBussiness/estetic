@@ -17,7 +17,7 @@ function SoinVisage() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -33,7 +33,7 @@ function SoinVisage() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   30 000 F CFA
                   </div>
                 </div>
@@ -49,7 +49,7 @@ function SoinVisage() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   35 000 F CFA
                   </div>
                 </div>
@@ -65,7 +65,7 @@ function SoinVisage() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   45 000 F CFA
                   </div>
                 </div>
@@ -81,7 +81,7 @@ function SoinVisage() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   55 000 F CFA
                   </div>
                 </div>
@@ -97,7 +97,7 @@ function SoinVisage() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   60 000 F CFA
                   </div>
                 </div>

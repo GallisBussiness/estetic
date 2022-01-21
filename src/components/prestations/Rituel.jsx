@@ -14,7 +14,7 @@ function Rituel() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   60 000 F CFA
                   </div>
                 </div>
@@ -30,7 +30,7 @@ function Rituel() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   18 000 F CFA
                   </div>
                 </div>
@@ -46,7 +46,7 @@ function Rituel() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   18 000 F CFA
                   </div>
                 </div>
@@ -62,7 +62,7 @@ function Rituel() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   20 000 F CFA
                   </div>
                 </div>
@@ -78,7 +78,7 @@ function Rituel() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   20 000 F CFA
                   </div>
                 </div>
@@ -94,7 +94,7 @@ function Rituel() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   20 000 F CFA
                   </div>
                 </div>
@@ -110,7 +110,7 @@ function Rituel() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   80 000 F CFA
                   </div>
                 </div>
@@ -126,7 +126,7 @@ function Rituel() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   100 000 F CFA
                   </div>
                 </div>

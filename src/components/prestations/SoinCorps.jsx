@@ -15,7 +15,7 @@ function SoinCorps() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h 30 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   35 000 F CFA
                   </div>
                 </div>
@@ -31,7 +31,7 @@ function SoinCorps() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -48,7 +48,7 @@ function SoinCorps() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -64,7 +64,7 @@ function SoinCorps() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h 30 Min
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   35 000 F CFA
                   </div>
                 </div>
@@ -81,7 +81,7 @@ function SoinCorps() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   20 000 F CFA
                   </div>
                 </div>
@@ -97,7 +97,7 @@ function SoinCorps() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -114,7 +114,7 @@ function SoinCorps() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   20 000 F CFA
                   </div>
                 </div>
@@ -130,7 +130,7 @@ function SoinCorps() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
@@ -146,7 +146,7 @@ function SoinCorps() {
                   <div className="md:text-lg text-sm text-gray-600 font-light">
                     Durée : 1 h
                   </div>
-                  <div className="text-2xl text-blue-600 font-bold">
+                  <div className="text-2xl text-gray-600 font-bold">
                   25 000 F CFA
                   </div>
                 </div>
