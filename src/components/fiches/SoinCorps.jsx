@@ -12,7 +12,7 @@ function SoinCorps() {
               <h1 className="text-3xl font-semibold my-2">Objectif : </h1>
               <p className="text-lg">Théorie et pratique sur les technique de Massages relaxant/tonic/amincissant</p>
               <div className="my-3 py-3">
-                   <h1 className="text-3xl font-semibold my-1">JOUR 1 : PRATIQUE</h1>
+                   <h1 className="text-3xl font-semibold my-1">JOUR 1 :</h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
                        <li> - Remise des supports de cours Massage</li>
@@ -24,23 +24,27 @@ function SoinCorps() {
                        <li> - Le déroulement d’un massage</li>
                        <li> - Apprendre à reconnaître une cliente potentielle</li>
                        <li> - Les différentes techniques de massage</li>
-                       <li> - Techniques de massage jambes et pieds</li>
+                   </ul>
+                   <h1 className="text-2xl font-semibold my-1 pl-4">14H00 A 17H00</h1>
+                   <ul className="pl-10">
+                      <li> - Techniques de massage jambes et pieds</li>
                        <li> - La préparation du client</li>
                    </ul>
               </div>
               <div className="my-3 py-3">
-                   <h1 className="text-3xl font-semibold my-1">JOUR 2 : PRATIQUE</h1>
+                   <h1 className="text-3xl font-semibold my-1">JOUR 2 :</h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
                        <li> - Préparation de la salle</li>
                        <li> - Installation du client</li>
                        <li> - Récapitulatif massage jambes et pieds</li>
                        <li> - Massage ventre bras/ventre /buste/épaules/tête</li>
-                       <h1 className="text-2xl font-semibold my-1 pl-4">14H00 A 17H00</h1>
+                   </ul>
+                   <h1 className="text-2xl font-semibold my-1 pl-4">14H00 A 17H00</h1>
                    <ul className="pl-10">
                        <li> - Récapitulatif du massage</li>
                        <li> - Pratique en binômes</li>
-                   </ul>
+                       <li> - Bilan de la journée</li>
                    </ul>
               </div>
               <div className="my-3 py-3">
@@ -64,6 +68,7 @@ function SoinCorps() {
                    <ul className="pl-10">
                        <li> - Pratique sur modèles</li>
                        <li> - Technique amincissantes /tonic</li>
+                       <li> - massage complet</li>
                    </ul>
                    <h1 className="text-2xl font-semibold my-1 pl-4">14H00 A 17H00</h1>
                    <ul className="pl-10">
@@ -73,7 +78,13 @@ function SoinCorps() {
                    </ul>
               </div>
               <div className="my-3 py-3">
-                   <h1 className="text-3xl font-semibold my-1">JOUR 5 MATINEE 5 : EXAMEN</h1>
+                   <h1 className="text-3xl font-semibold my-1">JOUR 5 : EXAMEN</h1>
+                   <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
+                   <ul className="pl-10">
+                       <li>- Examen théorique</li>
+                       <li>- Examen pratique</li>
+                       <li>- Préparation de la salle, mise en place des produits et matériels</li>
+                   </ul>
               </div>
           </div>   
         </>

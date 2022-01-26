@@ -12,7 +12,7 @@ function pedimani() {
               <h1 className="text-3xl font-semibold my-2">Objectif : </h1>
               <p className="text-lg">Théorie et pratique de la Manucure Pédicure</p>
               <div className="my-3 py-3">
-                   <h1 className="text-3xl font-semibold my-1">JOUR 1 MATIN : THEORIE</h1>
+                   <h1 className="text-3xl font-semibold my-1">JOUR 1 : THEORIE</h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
                        <li> - Remise des supports de cours Manucure Pédicure</li>
@@ -49,9 +49,12 @@ function pedimani() {
               </div>
               <div className="my-3 py-3">
                    <h1 className="text-3xl font-semibold my-1">JOUR 3 : PRATIQUE</h1>
-                   <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00 - 14H00 A 17H00</h1>
+                   <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
-                       <li> - Pratique avec optimisation du temps de réalisation sur modèles</li>
+                       <li>- Pratique avec optimisation du temps de réalisation sur modèles réelles</li>
+                       <li>- Pose vernis</li>
+                       <li>- Pose vernis permanent</li>
+                       <li>- Pose vernis french</li>
                    </ul>
               </div>
               <div className="my-3 py-3">
@@ -60,6 +63,11 @@ function pedimani() {
                    <ul className="pl-10">
                        <li> - Pratique avec optimisation du temps de réalisation sur modèles</li>
                        <li> - Séance de questions /réponses</li>
+                   </ul>
+                   <h1 className="text-2xl font-semibold my-1 pl-4">14H00 A 17H00</h1>
+                   <ul className="pl-10">
+                       <li>- Pratique sur modèles réelles</li>
+                       <li>- Bilan de la formation</li>
                    </ul>
               </div>
               <div className="my-3 py-3">

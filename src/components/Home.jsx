@@ -95,8 +95,8 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
    <div className="bg-gray-500 h-60 w-60">
      <img src="soin_visage.webp" alt="soin visage" className="h-full w-full rounded-full object-cover" />
    </div>
-   <div className="bg-gray-200 space-y-3 text-black font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
-     <hr className="w-10 h-1 bg-black" />
+   <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
+     <hr className="w-10 h-1 bg-white" />
       <h1 className="text-2xl font-bold">SOINS CORPS <br/> MASSAGES</h1>
       <Link to="/prestations?q=soin-corps" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
    </div>
@@ -116,8 +116,8 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
    <div className="bg-white h-60 w-60">
      <img src="rituel.jpg" alt="rituel" className="h-full w-full rounded-full object-cover" />
    </div>
-   <div className="bg-gray-200 space-y-3 text-black font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
-     <hr className="w-10 h-1 bg-black" />
+   <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
+     <hr className="w-10 h-1 bg-white" />
       <h1 className="text-2xl font-bold">RITUELS</h1>
       <Link to="/prestations?q=rituel" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
    </div>
@@ -131,8 +131,8 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
    <div className="bg-white h-60 w-60">
      <img src="EPILATION.jpg" alt="epilation" className="h-full w-full rounded-full object-cover" />
    </div>
-   <div className="bg-gray-200 space-y-3 text-black font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
-     <hr className="w-10 h-1 bg-black" />
+   <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-60 flex flex-col items-center justify-center">
+     <hr className="w-10 h-1 bg-white" />
       <h1 className="text-2xl font-bold">SOINS MAINS ET <br/> PIEDS</h1>
       <Link to="/prestations?q=pedicure-manicure" className="flex-shrink-0 text-white bg-gray-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg mt-10 sm:mt-0">Consulter nos tarifs</Link>
    </div>

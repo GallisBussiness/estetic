@@ -15,52 +15,73 @@ function Epilation() {
                    <h1 className="text-3xl font-semibold my-1">JOUR 1 : THEORIE</h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
-                       <li> - Examen du matériel</li>
-                       <li> - Remise des supports de cours Massage Pierres Chaudes</li>
-                       <li> - Les principes de base ; fondement, mécanismes objectifs</li>
-                       <li> - Les Pierres</li>
-                       <li> - L’hygiène, le matériel, l’entretien, le marketing, les questions, les tarifs...</li>
+                       <li> - Remise des supports de cours épilation</li>
+                       <li> - Anatomie du poil</li>
+                       <li> - Les différents appareils</li>
+                       <li> - Les principes de base, fondement, objectifs</li>
+                       <li> - Les différentes cires </li>
+                       <li> - L’hygiène, le matériel, l’entretien, le marketing, les questions, les tarifs... </li>
                        <li> - Apprendre à reconnaître une cliente potentielle</li>
-                       <li> - Les bienfaits du Massage Pierres Chaudes/ Le massage Pierres Froides</li>
-                       <li> - Les 7 Chakras principaux</li>
-                       <li> - Les pathologies qu’un MPC soulagera</li>
+                       <li> - Les différents types d’épilation </li>
+                   </ul>
+                   <h1 className="text-2xl font-semibold my-1 pl-4">14H00 A 17H00</h1>
+                   <ul className="pl-10">
+                       <li>- Préparation de la salle et du client </li>
+                       <li>- Techniques des différentes épilations </li>
+                       <li>- Techniques de l’épilation visage</li>
+                       <li>- Training sur poupée</li>
                    </ul>
               </div>
               <div className="my-3 py-3">
-                   <h1 className="text-3xl font-semibold my-1">MATINEE 2 : THEORIE</h1>
+                   <h1 className="text-3xl font-semibold my-1">JOURS 2 : PRATIQUE</h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
-                       <li> - Préparation de la salle et du client</li>
-                       <li> - Techniques de massage</li>
-                       <li> - Aromathérapie</li>
-                       <li> - Huiles de massage</li>
+                      <li>- Préparation de la salle</li>
+                       <li>- Révision des notions de la veille</li>
+                       <li>- Installation du client</li>
+                       <li>- Les différents gestes d’épilations</li>
+                       <li>- Pratique</li>
+                   </ul>
+                   <h1 className="text-2xl font-semibold my-1 pl-4">14H00 A 17H00</h1>
+                   <ul className="pl-10">
+                        <li>- Pratique en binôme</li>
+                        <li>- Questions / réponses</li>
+                        <li>- Bilan de la journée</li>
                    </ul>
               </div>
               <div className="my-3 py-3">
-                   <h1 className="text-3xl font-semibold my-1">MATINEE 3 : THEORIE</h1>
+                   <h1 className="text-3xl font-semibold my-1">JOURS 3 : PRATIQUE</h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
-                       <li> - Préparation de la salle</li>
-                       <li> - Révision des notions de la veille</li>
-                       <li> - Installation du client</li>
-                       <li> - Pratique</li>
+                       <li>- Pratique sur client</li>
+                       <li>- Préparation de la salle</li>
+                       <li>- Epilation jc+mb+a</li>
+                       <li>- Séance de questions /réponses</li>
+                   </ul>
+                   <h1 className="text-2xl font-semibold my-1 pl-4">14H00 A 17H00</h1>
+                   <ul className="pl-10">
+                    <li>- Préparation de la salle</li>
+                    <li>- Epilation visage</li>
+                    <li>- Révision des notions de la veille</li>
+                    <li>- Bilan de la journée</li>
                    </ul>
               </div>
               <div className="my-3 py-3">
-                   <h1 className="text-3xl font-semibold my-1">MATINEE 4 : PRATIQUE</h1>
+                   <h1 className="text-3xl font-semibold my-1">JOURS 4 : PRATIQUE</h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
-                       <li> - Pratique sur client</li>
-                       <li> - Séance de questions /réponses</li>
+                       <li> - Révisions de toutes les notions d’épilations</li>
+                       <li>- Pratique sur modèles réelles</li>
+                       <li>- Bilan de la formation</li>
+                       <li>- Questions / réponses</li>
                    </ul>
               </div>
               <div className="my-3 py-3">
-                   <h1 className="text-3xl font-semibold my-1">MATINEE 5 : PRATIQUE</h1>
+                   <h1 className="text-3xl font-semibold my-1">JOURS 5 : EXAMEN</h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
-                       <li> - Préparation de la salle</li>
-                       <li> - Révision des notions de la veille</li>
-                       <li> - EXAMEN</li>
+                    <li>- EXAMEN THEORIQUE</li>
+                    <li>- EXAMEN PRATIQUE</li>
                    </ul>
               </div>
              

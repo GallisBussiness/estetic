@@ -35,7 +35,7 @@ Théorie et pratique des techniques de maquillage.</p>
                    </ul>
               </div>
               <div className="my-3 py-3">
-                   <h1 className="text-3xl font-semibold my-1">JOUR 2 : PRATIQUE</h1>
+                   <h1 className="text-3xl font-semibold my-1">JOUR 2 : </h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
                        <li> - Préparation du plan de travail</li>
@@ -51,7 +51,7 @@ Théorie et pratique des techniques de maquillage.</p>
                    </ul>
               </div>
               <div className="my-3 py-3">
-<h1 className="text-3xl font-semibold my-1">JOUR 3 : PRATIQUE</h1>
+<h1 className="text-3xl font-semibold my-1">JOUR 3 : </h1>
                    <h1 className="text-2xl font-semibold my-1 pl-4">9H00 A 13H00</h1>
                    <ul className="pl-10">
                        <li> - Préparation du plan de travail</li>
