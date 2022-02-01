@@ -8,7 +8,7 @@ function Navbar() {
           <header className="bg-white z-10">
   <div className="container px-10 mx-auto flex flex-wrap flex-col md:flex-row items-center">
     <a href="/" className="flex font-medium items-center text-gray-900 mb-4 md:mb-0">
-     <img src="Logo_K.jpg" alt="logo" className="w-28 h-28 object-cover" />
+     <img src="logo.jpeg" alt="logo" className="w-28 h-28 object-cover" />
     </a>
     <nav className="font-lora md:ml-auto md:mr-auto flex flex-wrap items-center text-lg font-semibold justify-center">
       <Zoom>
