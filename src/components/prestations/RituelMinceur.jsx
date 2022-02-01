@@ -18,6 +18,12 @@ function RituelMinceur() {
                   25 000 F CFA
                   </div>
                 </div>
+                <div className="flex flex-col items-center justify-center space-x-2">
+                <hr className="w-10 h-1 bg-black my-1" />
+                   <div className="text-lg text-black text-justify">
+                   Un enveloppement - soin cryothérapie, qui traite les sensations d'inconfort et de fatigue dans les jambes. Un traitement dont l'éfficacité du complexe algal, enrichi en menthol et camphre est très largement approuvée. La sensation de fatigue douloureuse des jambes s'estompent pour une silhouette affinée.
+                 </div>
+                 </div>
                  </div>
                 </div> 
                 </Zoom>
@@ -31,9 +37,16 @@ function RituelMinceur() {
                     Durée : 1h
                   </div>
                   <div className="text-2xl text-gray-600 font-bold">
-                  25 000 F CFA
+                  45 000 F CFA
                   </div>
                 </div>
+                <div className="flex flex-col items-center justify-center space-x-2">
+                <hr className="w-10 h-1 bg-black my-1" />
+                   <div className="text-lg text-black text-justify">
+                  Concentré de performance et d'efficacité, ce soin minceur professionnel sur mesure zone à zone, gommage ultra exfoliant, double enveloppement effet chaud froid hautement actif associées à un massage spécifique pour remodeler visiblement votre silhouette les capitons,raffermir et tonifier votre peau.
+                  Gommage-enveloppement-massage-minceur localisé
+                 </div>
+                 </div>
                  </div>
                 </div> 
                 </Zoom>
@@ -50,6 +63,12 @@ function RituelMinceur() {
                   15 000 F CFA
                   </div>
                 </div>
+                <div className="flex flex-col items-center justify-center space-x-2">
+                <hr className="w-10 h-1 bg-black my-1" />
+                   <div className="text-lg text-black text-justify">
+                 Massage amincissant localisé sur le ventre, les cuisses pour affiner visiblement la silhouette.
+                 </div>
+                 </div>
                  </div>
                 </div> 
                 </Zoom>

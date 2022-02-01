@@ -5,7 +5,7 @@ import { FaFacebook,FaInstagram } from 'react-icons/fa'
 
 function Contact() {
     return (
-        <>
+        <div className="bg-white">
             <section className="text-gray-900 font-lora">
   <div className="container px-2 py-24 mx-auto">
     <div className="bg-gray-300 rounded-lg overflow-hidden p-10 min-h-screen relative">
@@ -40,7 +40,7 @@ function Contact() {
     </div>
     </div>
 </section>
-        </>
+        </div>
     )
 }
 

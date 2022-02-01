@@ -12,16 +12,34 @@ function Formations() {
 </div> */}
 
 <section className="py-8 leading-7 text-gray-900 bg-white sm:py-12 md:py-16 lg:py-24 font-lora">
-    <div className="box-border px-4 mx-auto border-solid sm:px-6 md:px-6 lg:px-8 max-w-7xl">
+    <div className="box-border mx-auto border-solid sm:px-6 md:px-6 lg:px-4 max-w-7xl">
         <div className="flex flex-col items-center leading-7 text-center text-gray-900 border-0 border-gray-200">
             <h2 className="box-border mb-4 text-3xl font-semibold leading-tight tracking-tight text-black border-solid sm:text-4xl md:text-5xl">
-            PLAN DE FORMATION SESSION EXCELLENCE
+           FORMATION
             </h2>
             <h2 className="box-border mb-4 text-3xl font-semibold leading-tight tracking-tight text-gray-800 border-solid sm:text-4xl md:text-3xl">
-            Choisissez un ou plusieurs modules ou la formation excéllence 
+            Choisissez un ou plusieurs modules 
             </h2>
+            <div className="flex flex-col text-lg items-start text-justify">
+            <h2 className="box-border mb-4 text-3xl font-semibold leading-tight tracking-tight text-gray-800 border-solid sm:text-4xl md:text-3xl">
+            La durée de chaque formation equivaut à 160 heures effectives de travail
+            </h2>
+            <h2 className="box-border font-semibold leading-tight tracking-tight text-gray-800">
+            - 32 heures avec le professeur
+            </h2>
+            <h2 className="box-border font-semibold leading-tight tracking-tight text-gray-800">
+            - 80 heures de stage
+            </h2>
+            <h2 className="box-border font-semibold leading-tight tracking-tight text-gray-800 ">
+            - 48 heures de DM
+            </h2>
+            </div>
+           
         </div>
-        <div className="grid grid-cols-1 gap-4 mt-4 leading-7 text-gray-900 sm:mt-6 sm:gap-6 md:mt-8 md:gap-0 lg:grid-cols-3">
+    </div>
+</section>
+<section className="py-6 leading-7 text-gray-900 bg-white sm:py-6 md:py-6 lg:py-6 font-lora">
+<div className="grid grid-cols-1 gap-4 mt-4 leading-7 text-gray-900 border-0 border-gray-200 sm:mt-6 sm:gap-6 md:mt-8 md:gap-4 lg:grid-cols-3">
             <div 
             className="relative z-10 flex flex-col items-center max-w-md p-4 mx-auto my-0 rounded-lg lg:-mr-3 sm:my-0 sm:p-6 md:my-8 md:p-8">
         
@@ -222,7 +240,6 @@ function Formations() {
 
             </div>
         </div>
-    </div>
 </section>
 <section className="py-6 leading-7 text-gray-900 bg-white sm:py-6 md:py-6 lg:py-6 font-lora">
         <div className="grid grid-cols-1 gap-4 mt-4 leading-7 text-gray-900 border-0 border-gray-200 sm:mt-6 sm:gap-6 md:mt-8 md:gap-0 lg:grid-cols-3">
