@@ -6,7 +6,9 @@ function Epilation() {
         <>
          <div className="px-10 py-4">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-y-2 gap-x-10">
-                <Zoom>
+            <div className="flex flex-col space-y-2">
+              <h2 className="text-2xl font-bold">EPILATIONS</h2>
+              <Zoom>
                    <div className="bg-white shadow-lg rounded-lg w-96">
                 <div className="py-5 px-5">
                 <span className="font-bold text-gray-800 text-lg">EPILATION LEVRE SUPERIEURE</span>
@@ -69,8 +71,10 @@ function Epilation() {
                  </div>
                 </div> 
                 </Zoom>
-               
-                <Zoom>
+              </div>
+              <div className="flex flex-col space-y-2">
+              <h2 className="text-2xl font-bold">EYE BROW BAR</h2>
+              <Zoom>
                       <div className="bg-white shadow-lg rounded-lg w-96">
                 <div className="py-5 px-5">
                 <span className="font-bold text-gray-800 text-lg">RESTRUCTURATION DU REGARD</span>
@@ -165,8 +169,10 @@ function Epilation() {
                  </div>
                 </div>
                 </Zoom>
-
-                <Zoom>
+              </div>
+              <div className="flex flex-col space-y-2">
+              <h2 className="text-2xl font-bold">EPILATION COPRS</h2>
+              <Zoom>
                       <div className="bg-white shadow-lg rounded-lg w-96">
                 <div className="py-5 px-5">
                 <span className="font-bold text-gray-800 text-lg">EPILATION BRAS</span>
@@ -277,7 +283,143 @@ function Epilation() {
                  </div>
                 </div>
                 </Zoom>
-                
+              </div>
+              <div className="flex flex-col space-y-2">
+              <h2 className="text-2xl font-bold">EPILATION AU MASCULIN</h2>
+              <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">SOURCILS</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  1O OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">SOURCILS ET LIGNE</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  15 OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">BRAS</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  1O OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">AISSELLES</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  8 OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">MAILLOTS</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  2O OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">JAMBE COMPLETE</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  2O OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">TORSE</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  15 OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">DOS</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  15 OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">NEZ</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  3 OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">OREILLES</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  3 OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                      <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">FESSES</span>
+                <div className="flex items-center justify-between">
+                  <div className="text-2xl text-gray-600 font-bold">
+                  10 OOO F CFA
+                  </div>
+                </div>
+                 </div>
+                </div>
+                </Zoom>
+              </div>
+              
             </div>
         </div> 
         </>

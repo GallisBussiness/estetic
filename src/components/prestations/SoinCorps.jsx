@@ -71,7 +71,7 @@ function SoinCorps() {
                    <div className="text-lg text-black text-justify">
                   Modelage millénaire chinois qui permet à l'énergie vital du corps de circuler pour relier les zones des différents chackras. Retrouver un bien-être extrème
                  </div>
-                </div>
+                  </div>
                  </div>
                 </div>
                 </Zoom>
@@ -87,6 +87,12 @@ function SoinCorps() {
                   25 000 F CFA
                   </div>
                 </div>
+                <div className="flex flex-col items-center justify-center space-x-2">
+                <hr className="w-10 h-1 bg-black my-1" />
+                   <div className="text-lg text-black text-justify">
+                 Issu d'une tradition hawaïenne soin authentique empreinte de sagesse traditionnelle permettant de rééquilibrer l'energie du corps et de l'esprit
+                 </div>
+                  </div>
                  </div>
                 </div>
 
@@ -107,6 +113,13 @@ function SoinCorps() {
                   25 000 F CFA
                   </div>
                 </div>
+                <div className="flex flex-col items-center justify-center space-x-2">
+                <hr className="w-10 h-1 bg-black my-1" />
+                   <div className="text-lg text-black text-justify">
+                  Sublimez votre poitrine grâce à la richesse des oligo-éléments de notre soin de fermeté.
+                  Retrouver la volupté de votre buste
+                 </div>
+                  </div>
                  </div>
                 </div>
                   </Zoom>
@@ -123,6 +136,12 @@ function SoinCorps() {
                   25 000 F CFA
                   </div>
                 </div>
+                <div className="flex flex-col items-center justify-center space-x-2">
+                <hr className="w-10 h-1 bg-black my-1" />
+                   <div className="text-lg text-black text-justify">
+                 Après une exfoliation des manoeuvres appuyées et puissante délassent des muscles des épaules de la nuque et du dos suivi d'un masque décontractant et hydratant à la boue marine et aux huiles essentielles.
+                 </div>
+                  </div>
                  </div>
                 </div>
                 </Zoom>

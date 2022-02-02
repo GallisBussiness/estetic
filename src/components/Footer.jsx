@@ -13,8 +13,8 @@ function Footer() {
                 </Link>
             </div>
             <div className="px-5 py-2">
-                <Link to="/qui-sommes-nous" className="text-base leading-6 text-gray-900">
-                    Qui sommes nous ?
+                <Link to="/prestations" className="text-base leading-6 text-gray-900">
+                    Nos prestations
                 </Link>
             </div>
             <div className="px-5 py-2">
