@@ -123,7 +123,9 @@ function SoinCorps() {
                  </div>
                 </div>
                   </Zoom>
-               
+                   <Zoom>
+                     <img src="/pexel_visage.jpg" className="w-96 rounded-lg h-80 object-cover" alt="image_soin_corps" />
+                   </Zoom>
                 <Zoom>
                    <div className="bg-white shadow-lg rounded-lg w-96">
                 <div className="py-5 px-5">
@@ -145,31 +147,7 @@ function SoinCorps() {
                  </div>
                 </div>
                 </Zoom>
-                <Zoom>
-                  <div className="bg-white shadow-lg rounded-lg w-96">
-                <div className="py-5 px-5">
-                <span className="font-bold text-gray-800 text-lg">RITUEL D'ENVELOPPEMENT</span>
-                <div className="flex items-center justify-between">
-                  <div className="md:text-lg text-sm text-gray-600 font-light">
-                    Durée : 1 h
-                  </div>
-                  <div className="text-2xl text-gray-600 font-bold">
-                  20 000 F CFA
-                  </div>
-                </div>
-                <div className="flex flex-col items-center justify-center space-x-2">
-                <hr className="w-10 h-1 bg-black my-1" />
-                   <div className="text-lg text-black text-justify">
-                   L'enveloppement corporel est une technique de soin qui consiste à libérer les tensions, élimine les toxines, hydrate la peau de notre corps en profondeur.
-                  <br />
-                  <h2 className="text-lg font-bold">Enveloppement à la crème de rhassoul somptueux au miel, detoxifiant, purrifiant</h2>
-                  <br />
-                  <h2 className="text-lg font-bold">Enveloppement à la poudre de gingembre hydratant et tonifiant</h2>
-                 </div>
-                 </div>
-                 </div>
-                </div>
-                </Zoom>
+                
             </div>
             <div className="flex flex-col space-y-2">
               <h2 className="text-2xl font-bold">SOINS CORPS</h2>
@@ -197,6 +175,31 @@ function SoinCorps() {
                   <h2 className="text-lg font-bold">Gommage aux sucres roux et à la noix de coco</h2>
                   <br />
                   <h2 className="text-lg font-bold">Gommage au sel minéraux et à l'huile chaude</h2>
+                 </div>
+                 </div>
+                 </div>
+                </div>
+                </Zoom>
+                <Zoom>
+                  <div className="bg-white shadow-lg rounded-lg w-96">
+                <div className="py-5 px-5">
+                <span className="font-bold text-gray-800 text-lg">RITUEL D'ENVELOPPEMENT</span>
+                <div className="flex items-center justify-between">
+                  <div className="md:text-lg text-sm text-gray-600 font-light">
+                    Durée : 1 h
+                  </div>
+                  <div className="text-2xl text-gray-600 font-bold">
+                  20 000 F CFA
+                  </div>
+                </div>
+                <div className="flex flex-col items-center justify-center space-x-2">
+                <hr className="w-10 h-1 bg-black my-1" />
+                   <div className="text-lg text-black text-justify">
+                   L'enveloppement corporel est une technique de soin qui consiste à libérer les tensions, élimine les toxines, hydrate la peau de notre corps en profondeur.
+                  <br />
+                  <h2 className="text-lg font-bold">Enveloppement à la crème de rhassoul somptueux au miel, detoxifiant, purrifiant</h2>
+                  <br />
+                  <h2 className="text-lg font-bold">Enveloppement à la poudre de gingembre hydratant et tonifiant</h2>
                  </div>
                  </div>
                  </div>

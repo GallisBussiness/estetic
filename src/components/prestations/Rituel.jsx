@@ -12,7 +12,7 @@ function Rituel() {
                 <span className="font-bold text-gray-800 text-lg">RITUEL EVASION DES ILES</span>
                 <div className="flex items-center justify-between">
                   <div className="md:text-lg text-sm text-gray-600 font-light">
-                    Durée : 1 h
+                    Durée : 2 h
                   </div>
                   <div className="text-2xl text-gray-600 font-bold">
                   60 000 F CFA
@@ -36,7 +36,7 @@ function Rituel() {
                 <span className="font-bold text-gray-800 text-lg">RITUEL PURETÉ MARINE</span>
                 <div className="flex items-center justify-between">
                   <div className="md:text-lg text-sm text-gray-600 font-light">
-                    Durée : 1 h
+                    Durée : 3 h
                   </div>
                   <div className="text-2xl text-gray-600 font-bold">
                   80 000 F CFA
@@ -60,7 +60,7 @@ function Rituel() {
                 <span className="font-bold text-gray-800 text-lg">RITUEL ORIENTAL</span>
                 <div className="flex items-center justify-between">
                   <div className="md:text-lg text-sm text-gray-600 font-light">
-                    Durée : 1 h
+                    Durée : 4 h
                   </div>
                   <div className="text-2xl text-gray-600 font-bold">
                   100 000 F CFA

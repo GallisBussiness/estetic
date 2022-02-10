@@ -4,5 +4,5 @@
 @tailwind utilities;
 
 .body {
-    background-image: linear-gradient(37deg, rgba(233,32,82, 0.17),rgba(165,21,236, 0.21));
+    background-color: #DCBF99;
 }

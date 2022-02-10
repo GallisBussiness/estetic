@@ -181,7 +181,7 @@ function Epilation() {
                     Durée : 15 Min
                   </div>
                   <div className="text-2xl text-gray-600 font-bold">
-                  6 000 F CFA
+                  8 000 F CFA
                   </div>
                 </div>
                  </div>

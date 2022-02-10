@@ -80,7 +80,7 @@ function SoinVisage() {
                 <span className="font-bold text-gray-800 text-lg">SOIN SOS OXYGENE</span>
                 <div className="flex items-center justify-between">
                   <div className="md:text-lg text-sm text-gray-600 font-light">
-                    Durée : 1h
+                    Durée : 1h 30 min
                   </div>
                   <div className="text-2xl text-gray-600 font-bold">
                   45 000 F CFA
@@ -102,7 +102,7 @@ function SoinVisage() {
                 <span className="font-bold text-gray-800 text-lg">SOIN REPULPANT AU COLLAGENE</span>
                 <div className="flex items-center justify-between">
                   <div className="md:text-lg text-sm text-gray-600 font-light">
-                    Durée : 1h
+                    Durée : 1h 30 min
                   </div>
                   <div className="text-2xl text-gray-600 font-bold">
                   55 000 F CFA
@@ -124,7 +124,7 @@ function SoinVisage() {
                 <span className="font-bold text-gray-800 text-lg">SOIN D'EXCEPTION FERMETE</span>
                 <div className="flex items-center justify-between">
                   <div className="md:text-lg text-sm text-gray-600 font-light">
-                    Durée : 1h
+                    Durée : 1h 30 min
                   </div>
                   <div className="text-2xl text-gray-600 font-bold">
                   60 000 F CFA
