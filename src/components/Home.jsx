@@ -83,7 +83,7 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
   </div>
 </section>
 <section className="mt-3 font-lora container space-y-2 md:space-y-0 mx-auto w-full md:w-full px-40">
- <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 items-center">
+ <div className="flex flex-col-reverse md:flex-row space-y-1 md:space-y-0 items-center">
    <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-96 flex flex-col items-center justify-center">
       <h1 className="text-2xl font-bold">SOINS VISAGES</h1>
       <hr className="w-10 h-1 bg-white" />
@@ -119,7 +119,7 @@ Une expérience qu’elle met à la disposition de sa clientèle et de son équi
       <Link to="/prestations?q=rituel" className="flex-shrink-0 text-white border-0 py-2 px-8 focus:outline-none hover:bg-white hover:text-gray-900 rounded text-lg font-bold mt-10 sm:mt-0">Nos tarifs</Link>
    </div>
  </div>
- <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 items-center">
+ <div className="flex flex-col-reverse md:flex-row space-y-1 md:space-y-0 items-center">
  <div className="bg-black space-y-3 text-white font-semibold text-2xl h-60 w-96 flex flex-col items-center justify-center">
     
       <h1 className="text-2xl font-bold">EPILATIONS</h1>
