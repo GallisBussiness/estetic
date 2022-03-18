@@ -138,7 +138,7 @@ function SoinPediManu() {
                 </Zoom>
               </div>
               <div className="flex flex-col items-center justify-center">
-                <img src="/pexel_visage.jpg" className="w-80 h-96 rounded-lg object-cover" alt="image_pedicure_manicure" />
+                <img src="/onglerie.jpg" className="w-80 h-96 rounded-lg object-cover" alt="image_pedicure_manicure" />
               </div>
               <div className="flex flex-col space-y-2">
               <h2 className="text-2xl font-bold">PEDICURE - MANICURE</h2>
