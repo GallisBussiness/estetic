@@ -12,7 +12,7 @@ function Home() {
   <div className="container px-10 py-10 mx-auto flex flex-col-reverse md:flex-row-reverse flex-wrap justify-center">
     <div className="lg:w-2/5 md:w-full md:pr-16 lg:pr-0 pr-0 mb-8 mr-10 flex flex-col items-center justify-center">
     <img src="/logo_K.jpg" alt="centre de beauté" className="rounded-lg h-48 w-48 mb-4" />
-      <h1 className="text-5xl text-white uppercase">CK Esthetik</h1>
+      <h1 className="text-5xl text-white uppercase">Wonderful Larissa Beauty</h1>
       <p className="leading-relaxed mt-4 text-lg text-white">
 CENTRE DE FORMATION
 AUX MÉTIERS DE LA BEAUTÉ</p>
